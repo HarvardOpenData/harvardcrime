@@ -26,14 +26,17 @@ class Incident(object):
         # 7. Street Address
         # 8. City (in Massachusetts)
         # 9. "Disposition Type", per HUPD (whether the case is open or closed)
-
-        self.date_reported = data_row[0]
-        self.time_reported = data_row[1]
         self.incident_type = data_row[2]
         self.location = data_row[5]
         self.street_address = data_row[6]
         self.city = data_row[7]
         self.disposition = data_row[8]
+
+        # convert date and time reported into a datetime
+        # this returns a range of times (start, end), but these will be the
+        # same because we're only passing a singular time. So just consider
+        # the "start" time, which is the 0th element of the tuple.
+        self.reported = timing.parse_raw_occurrence_data([data_row[0],data_row[1]])[0]
 
         # what about timing? well, there are 3 ways for date and time occurred to represented! (left of /// is data_row[3], right of /// is data_row[4])
         """
@@ -55,11 +58,10 @@ class Incident(object):
     # this is the list of fields that are exported to CSV
     # see to_dict_for_csv()
     CSV_FIELDS = [
-        'date_reported',
-        'time_reported',
+        'reported',
         'incident_type',
-        'date_occurred',
-        'time_occurred',
+        'occurred_start',
+        'occurred_end',
         'location',
         'street_address',
         'city',
@@ -78,11 +80,10 @@ class Incident(object):
             return unicode_str.encode("ascii","replace")
 
         return dict(
-            date_reported=to_ascii(self.date_reported),
-            time_reported=to_ascii(self.time_reported),
+            reported=str(self.reported),
             incident_type=to_ascii(self.incident_type),
-            date_occurred=to_ascii(self.date_occurred),
-            time_occurred=to_ascii(self.time_occurred),
+            occurred_start=str(self.occurred_start),
+            occurred_end=str(self.occurred_end),
             location=to_ascii(self.location),
             street_address=to_ascii(self.street_address),
             city=to_ascii(self.city),

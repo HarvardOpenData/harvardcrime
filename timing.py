@@ -65,12 +65,14 @@ def parse_raw_occurrence_data(occurrence_array):
     ["11/21/17","2:00 PM - 6:00 PM"],
     ["11/27/17 - 5:45 PM","11/28/17 - 9:00 AM"]
 
-    Transforms this into a timestamp of when it started.
+    Transforms this into a timestamp of when it started and ended;
+    returns a tuple of Python datetime objects (start, end).
+    If you want to convert a time range, use both elements of the outputted
+    tuple. If you want to convert a singular time, this function works too,
+    but only use one element of the outputted tuple.
     """
     # concatenate and trim whitespace
     occurrence = (occurrence_array[0] + " | " + occurrence_array[1]).strip()
-
-    print occurrence
 
     start = None
     end = None
@@ -126,6 +128,4 @@ def parse_raw_occurrence_data(occurrence_array):
         start = parse_datetime_tuple(R[0:6])
         end = parse_datetime_tuple(R[6:12])
 
-    print start
-    print end
     return (start, end)

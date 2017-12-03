@@ -1,0 +1,90 @@
+import timing
+reload(timing)
+
+class Incident(object):
+
+    def __init__(self, data_row):
+        # `data_row` is something like:
+        #
+        #  ['11/28/17',
+        #   '1:48 PM',
+        #   'FIELD INTERVIEW',
+        #   '11/28/17',
+        #   '1:48 PM - 2:31 PM',
+        #   'ALDRICH HALL',
+        #   '35 HARVARD WAY',
+        #   'ALLSTON',
+        #   'CLOSED'],
+        #
+        # The rows correspond to:
+        # 1. Date Reported
+        # 2. Time Reported
+        # 3. Incident Type
+        # 4. Date Occurred
+        # 5. Time Occurred
+        # 6. Location
+        # 7. Street Address
+        # 8. City (in Massachusetts)
+        # 9. "Disposition Type", per HUPD (whether the case is open or closed)
+
+        self.date_reported = data_row[0]
+        self.time_reported = data_row[1]
+        self.incident_type = data_row[2]
+        self.location = data_row[5]
+        self.street_address = data_row[6]
+        self.city = data_row[7]
+        self.disposition = data_row[8]
+
+        # what about timing? well, there are 3 ways for date and time occurred to represented! (left of /// is data_row[3], right of /// is data_row[4])
+        """
+        11/28/17 /// 4:20 PM
+        11/21/17 /// 2:00 PM - 6:00 PM
+        11/27/17 - 5:45 PM /// 11/28/17 - 9:00 AM
+        """
+        # The first & second ways are used if the start and end of the incident
+        # are on the same date. The third way is used if it spans multiple
+        # dates.
+
+        # now, parse data_row[3] and [4] into a start and end time.
+        (self.occurred_start, self.occurred_end) = timing.parse_raw_occurrence_data(
+            [data_row[3], data_row[4]])
+
+
+
+    # static
+    # this is the list of fields that are exported to CSV
+    # see to_dict_for_csv()
+    CSV_FIELDS = [
+        'date_reported',
+        'time_reported',
+        'incident_type',
+        'date_occurred',
+        'time_occurred',
+        'location',
+        'street_address',
+        'city',
+        'disposition'
+    ]
+
+    def to_dict_for_csv(self):
+        # returns a nicer-formatted dict ready for insertion into a csv
+        # so that means any arrays need to be flattened to scalars
+        # also everything needs to be converted to ascii
+
+        # TODO: extract to utils module
+        def to_ascii(unicode_str):
+            if unicode_str is None:
+                return None
+            return unicode_str.encode("ascii","replace")
+
+        return dict(
+            date_reported=to_ascii(self.date_reported),
+            time_reported=to_ascii(self.time_reported),
+            incident_type=to_ascii(self.incident_type),
+            date_occurred=to_ascii(self.date_occurred),
+            time_occurred=to_ascii(self.time_occurred),
+            location=to_ascii(self.location),
+            street_address=to_ascii(self.street_address),
+            city=to_ascii(self.city),
+            disposition=to_ascii(self.disposition)
+        )

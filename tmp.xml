@@ -1,126 +1,29 @@
 <pdfxml Producer="Acrobat Distiller 11.0 (Windows)" Title="CLY - Publish Report" Author="jdriscoll" Creator="PScript5.dll Version 5.2.2" ModDate="D:20171129083022-05'00'" CreationDate="D:20171129083022-05'00'">
   <LTPage bbox="[0, 0, 792, 612]" height="612" pageid="1" rotate="0" width="792" x0="0" x1="792" y0="0" y1="612" page_index="0" page_label="1">
-    <LTTextBoxHorizontal bbox="[4.5, 534.697, 51.496, 555.18]" height="20.482" index="0" width="46.996" x0="4.5" x1="51.496" y0="534.697" y1="555.18">
-      <LTTextLineHorizontal bbox="[4.5, 545.197, 51.496, 555.18]" height="9.982" width="46.996" word_margin="0.1" x0="4.5" x1="51.496" y0="545.197" y1="555.18">Francis D. Riley
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[4.5, 534.697, 48.919, 544.68]" height="9.982" width="44.419" word_margin="0.1" x0="4.5" x1="48.919" y0="534.697" y1="544.68">Chief Of Police
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" width="265.581" word_margin="0.1" x0="486.48" x1="752.061" y0="592.695" y1="613.605">
-      <LTTextBoxHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" index="1" width="265.581" x0="486.48" x1="752.061" y0="592.695" y1="613.605">Harvard University Police Department
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextBoxHorizontal bbox="[599.04, 523.237, 752.405, 587.46]" height="64.222" index="2" width="153.365" x0="599.04" x1="752.405" y0="523.237" y1="587.46">
-      <LTTextLineHorizontal bbox="[666.3, 577.477, 751.821, 587.46]" height="9.982" width="85.521" word_margin="0.1" x0="666.3" x1="751.821" y0="577.477" y1="587.46">1033 Massachusetts Avenue
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[720.24, 566.977, 752.071, 576.96]" height="9.982" width="31.831" word_margin="0.1" x0="720.24" x1="752.071" y0="566.977" y1="576.96">Sixth Floor
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[650.76, 556.477, 751.82, 566.46]" height="9.982" width="101.06" word_margin="0.1" x0="650.76" x1="751.82" y0="556.477" y1="566.46">Cambridge, Massachusetts 02138
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[687.54, 545.977, 751.967, 555.96]" height="9.982" width="64.427" word_margin="0.1" x0="687.54" x1="751.967" y0="545.977" y1="555.96">Phone: 617-495-1215
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[695.7, 535.477, 751.975, 545.46]" height="9.982" width="56.275" word_margin="0.1" x0="695.7" x1="751.975" y0="535.477" y1="545.46">Fax: 617-495-7782
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[599.04, 523.237, 752.405, 533.692]" height="10.455" width="153.365" word_margin="0.1" x0="599.04" x1="752.405" y0="523.237" y1="533.692">President and Fellows of Harvard College
-      </LTTextLineHorizontal><LTRect bbox="[645.0, 573.78, 752.22, 585.78]" height="12.0" linewidth="0.72" pts="[[645.0, 585.78], [752.22, 585.78], [752.22, 573.78], [645.0, 573.78]]" width="107.22" x0="645.0" x1="752.22" y0="573.78" y1="585.78"/><LTRect bbox="[713.22, 563.28, 752.22, 575.28]" height="12.0" linewidth="0.72" pts="[[713.22, 575.28], [752.22, 575.28], [752.22, 563.28], [713.22, 563.28]]" width="39.0" x0="713.22" x1="752.22" y0="563.28" y1="575.28"/><LTRect bbox="[632.22, 552.78, 752.22, 564.78]" height="12.0" linewidth="0.72" pts="[[632.22, 564.78], [752.22, 564.78], [752.22, 552.78], [632.22, 552.78]]" width="120.0" x0="632.22" x1="752.22" y0="552.78" y1="564.78"/><LTRect bbox="[674.22, 542.28, 752.22, 554.28]" height="12.0" linewidth="0.72" pts="[[674.22, 554.28], [752.22, 554.28], [752.22, 542.28], [674.22, 542.28]]" width="78.0" x0="674.22" x1="752.22" y0="542.28" y1="554.28"/><LTRect bbox="[684.0, 531.78, 752.22, 543.78]" height="12.0" linewidth="0.72" pts="[[684.0, 543.78], [752.22, 543.78], [752.22, 531.78], [684.0, 531.78]]" width="68.22" x0="684.0" x1="752.22" y0="531.78" y1="543.78"/></LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" width="44.599" word_margin="0.1" x0="491.22" x1="535.819" y0="523.237" y1="533.692">
-      <LTTextBoxHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" index="3" width="44.599" x0="491.22" x1="535.819" y0="523.237" y1="533.692">Copyright &#169;
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" width="17.289" word_margin="0.1" x0="546.0" x1="563.289" y0="523.237" y1="533.692">
-      <LTTextBoxHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" index="4" width="17.289" x0="546.0" x1="563.289" y0="523.237" y1="533.692">2017
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" width="110.918" word_margin="0.1" x0="324.84" x1="435.758" y0="475.669" y1="489.219">
-      <LTTextBoxHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" index="5" width="110.918" x0="324.84" x1="435.758" y0="475.669" y1="489.219">PUBLIC POLICE LOG
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" width="54.586" word_margin="0.1" x0="353.28" x1="407.866" y0="462.889" y1="476.439">
-      <LTTextBoxHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" index="6" width="54.586" x0="353.28" x1="407.866" y0="462.889" y1="476.439">11/28/2017
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="11.04" x1="71.464" y0="431.029" y1="443.966">
-      <LTTextBoxHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" index="7" width="60.424" x0="11.04" x1="71.464" y0="431.029" y1="443.966">Date &amp; Time
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="231.12" x1="291.544" y0="431.029" y1="443.966">
-      <LTTextBoxHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" index="10" width="60.424" x0="231.12" x1="291.544" y0="431.029" y1="443.966">Date &amp; Time
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="363.564" y1="380.098">
-      <LTTextBoxHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" index="23" width="731.868" x0="6.0" x1="737.868" y0="363.564" y1="380.098">Officer dispatched to take a report of a stolen U.S. currency valued at $620.00.
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[6.0, 304.284, 737.868, 320.818]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="304.284" y1="320.818">
-      <LTTextBoxHorizontal bbox="[6.0, 304.284, 737.868, 320.818]" height="16.534" index="33" width="731.868" x0="6.0" x1="737.868" y0="304.284" y1="320.818">Officer dispatched to take a report of a stolen blue Canada Goose jacket valued at $1,000.00.
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[6.0, 245.064, 737.868, 261.598]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="245.064" y1="261.598">
-      <LTTextBoxHorizontal bbox="[6.0, 245.064, 737.868, 261.598]" height="16.534" index="42" width="731.868" x0="6.0" x1="737.868" y0="245.064" y1="261.598">Officer dispatched to take a report of a stolen green Subaru Forrester valued at $12,000.00.
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[6.0, 185.784, 737.868, 202.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="185.784" y1="202.318">
-      <LTTextBoxHorizontal bbox="[6.0, 185.784, 737.868, 202.318]" height="16.534" index="50" width="731.868" x0="6.0" x1="737.868" y0="185.784" y1="202.318">Officer dispatched to take a report of threats.
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextBoxHorizontal bbox="[6.0, 101.064, 737.868, 143.098]" height="42.034" index="60" width="731.868" x0="6.0" x1="737.868" y0="101.064" y1="143.098">
-      <LTTextLineHorizontal bbox="[6.0, 126.564, 737.868, 143.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="126.564" y1="143.098">Officer dispatched to a report of an unwanted guest sitting in on a class. Officer arrived, located individual and
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[6.0, 113.784, 737.868, 130.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="113.784" y1="130.318">conducted a field interview. The individual was run for wants/warrants with negative results. The individual was then
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[6.0, 101.064, 737.868, 117.598]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="101.064" y1="117.598">advised that they need to get permission to sit in on future classes. The individual was then sent on their way.
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextBoxHorizontal bbox="[28.2, 80.197, 54.123, 99.18]" height="18.983" index="61" width="25.923" x0="28.2" x1="54.123" y0="80.197" y1="99.18">
-      <LTTextLineHorizontal bbox="[28.2, 89.197, 54.123, 99.18]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="89.197" y1="99.18">11/28/17
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[28.8, 80.197, 53.604, 90.18]" height="9.983" width="24.804" word_margin="0.1" x0="28.8" x1="53.604" y0="80.197" y1="90.18">3:14 PM
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[6.0, 65.784, 737.868, 82.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="65.784" y1="82.318">
-      <LTTextBoxHorizontal bbox="[6.0, 65.784, 737.868, 82.318]" height="16.534" index="64" width="731.868" x0="6.0" x1="737.868" y0="65.784" y1="82.318">Officer dispatched to take a report of a stolen package containing an HP laptop valued at $821.00.
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextBoxHorizontal bbox="[247.08, 80.197, 275.587, 99.18]" height="18.983" index="65" width="28.507" x0="247.08" x1="275.587" y0="80.197" y1="99.18">
-      <LTTextLineHorizontal bbox="[248.34, 89.197, 274.263, 99.18]" height="9.983" width="25.923" word_margin="0.1" x0="248.34" x1="274.263" y0="89.197" y1="99.18">11/16/17
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[247.08, 80.197, 275.587, 90.18]" height="9.983" width="28.507" word_margin="0.1" x0="247.08" x1="275.587" y0="80.197" y1="90.18">10:08 AM
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[426.66, 89.197, 480.697, 99.18]" height="9.983" width="54.037" word_margin="0.1" x0="426.66" x1="480.697" y0="89.197" y1="99.18">
-      <LTTextBoxHorizontal bbox="[426.66, 89.197, 480.697, 99.18]" height="9.983" index="66" width="54.037" x0="426.66" x1="480.697" y0="89.197" y1="99.18">1 WESTERN AVE
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTCurve
-      bbox="[3.36, 421.92, 755.58, 442.86]"
-      height="20.94"
-      linewidth="0.72"
-      pts="[[79.08, 421.92], [79.08, 442.86], [3.36, 442.86], [3.36, 421.92], [79.08, 442.86], [201.36, 421.92], [201.36, 442.86], [80.64, 442.86], [80.64, 421.92], [201.36, 442.86], [319.08, 421.92], [319.08, 442.86], [202.86, 442.86], [202.86, 421.92], [319.08, 442.86], [586.86, 421.92], [586.86, 442.86], [320.64, 442.86], [320.64, 421.92], [586.86, 442.86], [755.58, 421.92], [755.58, 442.86], [589.14, 442.86], [589.14, 421.92], [755.58, 442.86]]"
-      width="752.22"
-      x0="3.36"
-      x1="755.58"
-      y0="421.92"
-      y1="442.86">
-      <LTTextLineHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" width="44.731" word_margin="0.1" x0="18.84" x1="63.571" y0="422.749" y1="435.686">
-        <LTTextBoxHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" index="8" width="44.731" x0="18.84" x1="63.571" y0="422.749" y1="435.686">Reported
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" width="65.278" word_margin="0.1" x0="108.3" x1="173.578" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" index="9" width="65.278" x0="108.3" x1="173.578" y0="427.249" y1="440.186">Incident Type
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" width="44.715" word_margin="0.1" x0="238.62" x1="283.335" y0="422.749" y1="435.686">
-        <LTTextBoxHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" index="11" width="44.715" x0="238.62" x1="283.335" y0="422.749" y1="435.686">Occurred
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" width="41.105" word_margin="0.1" x0="433.14" x1="474.245" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" index="17" width="41.105" x0="433.14" x1="474.245" y0="427.249" y1="440.186">Location
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" width="53.175" word_margin="0.1" x0="646.08" x1="699.255" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" index="21" width="53.175" x0="646.08" x1="699.255" y0="427.249" y1="440.186">Disposition
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[4.5, 534.697, 51.496, 555.18]" height="20.482" index="0" width="46.996" x0="4.5" x1="51.496" y0="534.697" y1="555.18"><LTTextLineHorizontal bbox="[4.5, 545.197, 51.496, 555.18]" height="9.982" width="46.996" word_margin="0.1" x0="4.5" x1="51.496" y0="545.197" y1="555.18">Francis D. Riley </LTTextLineHorizontal><LTTextLineHorizontal bbox="[4.5, 534.697, 48.919, 544.68]" height="9.982" width="44.419" word_margin="0.1" x0="4.5" x1="48.919" y0="534.697" y1="544.68">Chief Of Police </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" width="265.581" word_margin="0.1" x0="486.48" x1="752.061" y0="592.695" y1="613.605"><LTTextBoxHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" index="1" width="265.581" x0="486.48" x1="752.061" y0="592.695" y1="613.605">Harvard University Police Department </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[599.04, 523.237, 752.405, 587.46]" height="64.222" index="2" width="153.365" x0="599.04" x1="752.405" y0="523.237" y1="587.46"><LTTextLineHorizontal bbox="[666.3, 577.477, 751.821, 587.46]" height="9.982" width="85.521" word_margin="0.1" x0="666.3" x1="751.821" y0="577.477" y1="587.46">1033 Massachusetts Avenue </LTTextLineHorizontal><LTTextLineHorizontal bbox="[720.24, 566.977, 752.071, 576.96]" height="9.982" width="31.831" word_margin="0.1" x0="720.24" x1="752.071" y0="566.977" y1="576.96">Sixth Floor </LTTextLineHorizontal><LTTextLineHorizontal bbox="[650.76, 556.477, 751.82, 566.46]" height="9.982" width="101.06" word_margin="0.1" x0="650.76" x1="751.82" y0="556.477" y1="566.46">Cambridge, Massachusetts 02138 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[687.54, 545.977, 751.967, 555.96]" height="9.982" width="64.427" word_margin="0.1" x0="687.54" x1="751.967" y0="545.977" y1="555.96">Phone: 617-495-1215 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[695.7, 535.477, 751.975, 545.46]" height="9.982" width="56.275" word_margin="0.1" x0="695.7" x1="751.975" y0="535.477" y1="545.46">Fax: 617-495-7782 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[599.04, 523.237, 752.405, 533.692]" height="10.455" width="153.365" word_margin="0.1" x0="599.04" x1="752.405" y0="523.237" y1="533.692">President and Fellows of Harvard College </LTTextLineHorizontal><LTRect bbox="[645.0, 573.78, 752.22, 585.78]" height="12.0" linewidth="0.72" pts="[[645.0, 585.78], [752.22, 585.78], [752.22, 573.78], [645.0, 573.78]]" width="107.22" x0="645.0" x1="752.22" y0="573.78" y1="585.78"/><LTRect bbox="[713.22, 563.28, 752.22, 575.28]" height="12.0" linewidth="0.72" pts="[[713.22, 575.28], [752.22, 575.28], [752.22, 563.28], [713.22, 563.28]]" width="39.0" x0="713.22" x1="752.22" y0="563.28" y1="575.28"/><LTRect bbox="[632.22, 552.78, 752.22, 564.78]" height="12.0" linewidth="0.72" pts="[[632.22, 564.78], [752.22, 564.78], [752.22, 552.78], [632.22, 552.78]]" width="120.0" x0="632.22" x1="752.22" y0="552.78" y1="564.78"/><LTRect bbox="[674.22, 542.28, 752.22, 554.28]" height="12.0" linewidth="0.72" pts="[[674.22, 554.28], [752.22, 554.28], [752.22, 542.28], [674.22, 542.28]]" width="78.0" x0="674.22" x1="752.22" y0="542.28" y1="554.28"/><LTRect bbox="[684.0, 531.78, 752.22, 543.78]" height="12.0" linewidth="0.72" pts="[[684.0, 543.78], [752.22, 543.78], [752.22, 531.78], [684.0, 531.78]]" width="68.22" x0="684.0" x1="752.22" y0="531.78" y1="543.78"/></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" width="44.599" word_margin="0.1" x0="491.22" x1="535.819" y0="523.237" y1="533.692"><LTTextBoxHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" index="3" width="44.599" x0="491.22" x1="535.819" y0="523.237" y1="533.692">Copyright &#169; </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" width="17.289" word_margin="0.1" x0="546.0" x1="563.289" y0="523.237" y1="533.692"><LTTextBoxHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" index="4" width="17.289" x0="546.0" x1="563.289" y0="523.237" y1="533.692">2017 </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" width="110.918" word_margin="0.1" x0="324.84" x1="435.758" y0="475.669" y1="489.219"><LTTextBoxHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" index="5" width="110.918" x0="324.84" x1="435.758" y0="475.669" y1="489.219">PUBLIC POLICE LOG </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" width="54.586" word_margin="0.1" x0="353.28" x1="407.866" y0="462.889" y1="476.439"><LTTextBoxHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" index="6" width="54.586" x0="353.28" x1="407.866" y0="462.889" y1="476.439">11/28/2017 </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="11.04" x1="71.464" y0="431.029" y1="443.966"><LTTextBoxHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" index="7" width="60.424" x0="11.04" x1="71.464" y0="431.029" y1="443.966">Date &amp; Time </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="231.12" x1="291.544" y0="431.029" y1="443.966"><LTTextBoxHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" index="10" width="60.424" x0="231.12" x1="291.544" y0="431.029" y1="443.966">Date &amp; Time </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="363.564" y1="380.098"><LTTextBoxHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" index="23" width="731.868" x0="6.0" x1="737.868" y0="363.564" y1="380.098">Officer dispatched to take a report of a stolen U.S. currency valued at $620.00. </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[6.0, 304.284, 737.868, 320.818]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="304.284" y1="320.818"><LTTextBoxHorizontal bbox="[6.0, 304.284, 737.868, 320.818]" height="16.534" index="33" width="731.868" x0="6.0" x1="737.868" y0="304.284" y1="320.818">Officer dispatched to take a report of a stolen blue Canada Goose jacket valued at $1,000.00. </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[6.0, 245.064, 737.868, 261.598]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="245.064" y1="261.598"><LTTextBoxHorizontal bbox="[6.0, 245.064, 737.868, 261.598]" height="16.534" index="42" width="731.868" x0="6.0" x1="737.868" y0="245.064" y1="261.598">Officer dispatched to take a report of a stolen green Subaru Forrester valued at $12,000.00. </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[6.0, 185.784, 737.868, 202.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="185.784" y1="202.318"><LTTextBoxHorizontal bbox="[6.0, 185.784, 737.868, 202.318]" height="16.534" index="50" width="731.868" x0="6.0" x1="737.868" y0="185.784" y1="202.318">Officer dispatched to take a report of threats. </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[6.0, 101.064, 737.868, 143.098]" height="42.034" index="60" width="731.868" x0="6.0" x1="737.868" y0="101.064" y1="143.098"><LTTextLineHorizontal bbox="[6.0, 126.564, 737.868, 143.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="126.564" y1="143.098">Officer dispatched to a report of an unwanted guest sitting in on a class. Officer arrived, located individual and </LTTextLineHorizontal><LTTextLineHorizontal bbox="[6.0, 113.784, 737.868, 130.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="113.784" y1="130.318">conducted a field interview. The individual was run for wants/warrants with negative results. The individual was then </LTTextLineHorizontal><LTTextLineHorizontal bbox="[6.0, 101.064, 737.868, 117.598]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="101.064" y1="117.598">advised that they need to get permission to sit in on future classes. The individual was then sent on their way. </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextBoxHorizontal bbox="[28.2, 80.197, 54.123, 99.18]" height="18.983" index="61" width="25.923" x0="28.2" x1="54.123" y0="80.197" y1="99.18"><LTTextLineHorizontal bbox="[28.2, 89.197, 54.123, 99.18]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="89.197" y1="99.18">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[28.8, 80.197, 53.604, 90.18]" height="9.983" width="24.804" word_margin="0.1" x0="28.8" x1="53.604" y0="80.197" y1="90.18">3:14 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[6.0, 65.784, 737.868, 82.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="65.784" y1="82.318"><LTTextBoxHorizontal bbox="[6.0, 65.784, 737.868, 82.318]" height="16.534" index="64" width="731.868" x0="6.0" x1="737.868" y0="65.784" y1="82.318">Officer dispatched to take a report of a stolen package containing an HP laptop valued at $821.00. </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[247.08, 80.197, 275.587, 99.18]" height="18.983" index="65" width="28.507" x0="247.08" x1="275.587" y0="80.197" y1="99.18"><LTTextLineHorizontal bbox="[248.34, 89.197, 274.263, 99.18]" height="9.983" width="25.923" word_margin="0.1" x0="248.34" x1="274.263" y0="89.197" y1="99.18">11/16/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[247.08, 80.197, 275.587, 90.18]" height="9.983" width="28.507" word_margin="0.1" x0="247.08" x1="275.587" y0="80.197" y1="90.18">10:08 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[426.66, 89.197, 480.697, 99.18]" height="9.983" width="54.037" word_margin="0.1" x0="426.66" x1="480.697" y0="89.197" y1="99.18"><LTTextBoxHorizontal bbox="[426.66, 89.197, 480.697, 99.18]" height="9.983" index="66" width="54.037" x0="426.66" x1="480.697" y0="89.197" y1="99.18">1 WESTERN AVE </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 421.92, 755.58, 442.86]" height="20.94" linewidth="0.72" pts="[[79.08, 421.92], [79.08, 442.86], [3.36, 442.86], [3.36, 421.92], [79.08, 442.86], [201.36, 421.92], [201.36, 442.86], [80.64, 442.86], [80.64, 421.92], [201.36, 442.86], [319.08, 421.92], [319.08, 442.86], [202.86, 442.86], [202.86, 421.92], [319.08, 442.86], [586.86, 421.92], [586.86, 442.86], [320.64, 442.86], [320.64, 421.92], [586.86, 442.86], [755.58, 421.92], [755.58, 442.86], [589.14, 442.86], [589.14, 421.92], [755.58, 442.86]]" width="752.22" x0="3.36" x1="755.58" y0="421.92" y1="442.86">
+      <LTTextLineHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" width="44.731" word_margin="0.1" x0="18.84" x1="63.571" y0="422.749" y1="435.686"><LTTextBoxHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" index="8" width="44.731" x0="18.84" x1="63.571" y0="422.749" y1="435.686">Reported </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" width="65.278" word_margin="0.1" x0="108.3" x1="173.578" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" index="9" width="65.278" x0="108.3" x1="173.578" y0="427.249" y1="440.186">Incident Type </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" width="44.715" word_margin="0.1" x0="238.62" x1="283.335" y0="422.749" y1="435.686"><LTTextBoxHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" index="11" width="44.715" x0="238.62" x1="283.335" y0="422.749" y1="435.686">Occurred </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" width="41.105" word_margin="0.1" x0="433.14" x1="474.245" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" index="17" width="41.105" x0="433.14" x1="474.245" y0="427.249" y1="440.186">Location </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" width="53.175" word_margin="0.1" x0="646.08" x1="699.255" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" index="21" width="53.175" x0="646.08" x1="699.255" y0="427.249" y1="440.186">Disposition </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[6.0, 433.56, 76.5, 441.78]" height="8.22" linewidth="0.72" pts="[[6.0, 441.78], [76.5, 441.78], [76.5, 433.56], [6.0, 433.56]]" width="70.5" x0="6.0" x1="76.5" y0="433.56" y1="441.78"/>
       <LTRect bbox="[206.22, 433.56, 316.44, 441.78]" height="8.22" linewidth="0.72" pts="[[206.22, 441.78], [316.44, 441.78], [316.44, 433.56], [206.22, 433.56]]" width="110.22" x0="206.22" x1="316.44" y0="433.56" y1="441.78"/>
       <LTRect bbox="[83.22, 426.0, 198.72, 438.0]" height="12.0" linewidth="0.72" pts="[[83.22, 438.0], [198.72, 438.0], [198.72, 426.0], [83.22, 426.0]]" width="115.5" x0="83.22" x1="198.72" y0="426.0" y1="438.0"/>
@@ -141,73 +44,23 @@
     <LTLine bbox="[757.86, 419.28, 757.86, 444.0]" height="24.72" linewidth="0.72" pts="[[757.86, 444.0], [757.86, 419.28]]" width="0.0" x0="757.86" x1="757.86" y0="419.28" y1="444.0"/>
     <LTRect bbox="[546.0, 521.28, 569.22, 531.78]" height="10.5" linewidth="0.72" pts="[[546.0, 531.78], [569.22, 531.78], [569.22, 521.28], [546.0, 521.28]]" width="23.22" x0="546.0" x1="569.22" y0="521.28" y1="531.78"/>
     <LTRect bbox="[4.5, 462.0, 756.72, 474.0]" height="12.0" linewidth="0.72" pts="[[4.5, 474.0], [756.72, 474.0], [756.72, 462.0], [4.5, 462.0]]" width="752.22" x0="4.5" x1="756.72" y0="462.0" y1="474.0"/>
-    <LTImage
-      bbox="[3.0, 564.78, 47.22, 609.0]"
-      bits="8"
-      colorspace="[&quot;&lt;PDFObjRef:30&gt;&quot;]"
-      height="44.22"
-      imagemask="null"
-      name="Im1"
-      srcsize="[64, 64]"
-      stream="&lt;PDFStream(25): raw=2101, {'Width': 64, 'ColorSpace': &lt;PDFObjRef:30&gt;, 'Height': 64, 'Filter': /DCTDecode, 'Subtype': /Image, 'Length': 2099, 'Type': /XObject, 'BitsPerComponent': 8}&gt;"
-      width="44.22"
-      x0="3.0"
-      x1="47.22"
-      y0="564.78"
-      y1="609.0">
+    <LTImage bbox="[3.0, 564.78, 47.22, 609.0]" bits="8" colorspace="[&quot;&lt;PDFObjRef:30&gt;&quot;]" height="44.22" imagemask="null" name="Im1" srcsize="[64, 64]" stream="&lt;PDFStream(25): raw=2101, {'Width': 64, 'ColorSpace': &lt;PDFObjRef:30&gt;, 'Height': 64, 'Filter': /DCTDecode, 'Subtype': /Image, 'Length': 2099, 'Type': /XObject, 'BitsPerComponent': 8}&gt;" width="44.22" x0="3.0" x1="47.22" y0="564.78" y1="609.0">
       <LTFigure bbox="[3.0, 564.78, 47.22, 609.0]" height="44.22" matrix="[44.22, 0.0, 0.0, 44.22, 3.0, 564.78]" name="Im1" width="44.22" x0="3.0" x1="47.22" y0="564.78" y1="609.0"/>
     </LTImage>
-    <LTCurve
-      bbox="[3.36, 375.42, 754.86, 420.36]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 375.42], [79.08, 420.36], [3.36, 420.36], [3.36, 375.42], [79.08, 420.36], [201.36, 375.42], [201.36, 420.36], [80.64, 420.36], [80.64, 375.42], [201.36, 420.36], [319.08, 375.42], [319.08, 420.36], [202.86, 420.36], [202.86, 375.42], [319.08, 420.36], [586.86, 375.42], [586.86, 420.36], [320.64, 420.36], [320.64, 375.42], [586.86, 420.36], [754.86, 375.42], [754.86, 420.36], [589.14, 420.36], [589.14, 375.42], [754.86, 420.36]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="375.42"
-      y1="420.36">
-      <LTTextBoxHorizontal bbox="[28.2, 389.197, 54.123, 409.68]" height="20.482" index="12" width="25.923" x0="28.2" x1="54.123" y0="389.197" y1="409.68">
-        <LTTextLineHorizontal bbox="[28.2, 399.697, 54.123, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="399.697" y1="409.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[29.16, 389.197, 53.964, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="389.197" y1="399.18">8:26 AM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.9, 398.197, 197.083, 408.18]" height="9.982" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="398.197" y1="408.18">
-        <LTTextBoxHorizontal bbox="[84.9, 398.197, 197.083, 408.18]" height="9.982" index="13" width="112.183" x0="84.9" x1="197.083" y0="398.197" y1="408.18">THEFT REPORT
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="399.697" y1="409.68">
-        <LTTextBoxHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" index="15" width="25.923" x0="247.98" x1="273.903" y0="399.697" y1="409.68">11/28/17
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[233.16, 389.197, 288.689, 399.18]" height="9.982" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="389.197" y1="399.18">
-        <LTTextBoxHorizontal bbox="[233.16, 389.197, 288.689, 399.18]" height="9.982" index="16" width="55.529" x0="233.16" x1="288.689" y0="389.197" y1="399.18">7:30 AM - 8:00 AM
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[409.68, 407.978, 497.758, 417.96]" height="9.982" width="88.078" word_margin="0.1" x0="409.68" x1="497.758" y0="407.978" y1="417.96">
-        <LTTextBoxHorizontal bbox="[409.68, 407.978, 497.758, 417.96]" height="9.982" index="18" width="88.078" x0="409.68" x1="497.758" y0="407.978" y1="417.96">MALKIN ATHLETIC CENTER
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[427.8, 395.978, 479.625, 405.96]" height="9.982" width="51.825" word_margin="0.1" x0="427.8" x1="479.625" y0="395.978" y1="405.96">
-        <LTTextBoxHorizontal bbox="[427.8, 395.978, 479.625, 405.96]" height="9.982" index="19" width="51.825" x0="427.8" x1="479.625" y0="395.978" y1="405.96">39 HOLYOKE ST
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="383.978" y1="393.96">
-        <LTTextBoxHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" index="20" width="40.336" x0="433.56" x1="473.896" y0="383.978" y1="393.96">CAMBRIDGE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="393.697" y1="403.68">
-        <LTTextBoxHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" index="22" width="27.388" x0="657.54" x1="684.928" y0="393.697" y1="403.68">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 375.42, 754.86, 420.36]" height="44.94" linewidth="0.72" pts="[[79.08, 375.42], [79.08, 420.36], [3.36, 420.36], [3.36, 375.42], [79.08, 420.36], [201.36, 375.42], [201.36, 420.36], [80.64, 420.36], [80.64, 375.42], [201.36, 420.36], [319.08, 375.42], [319.08, 420.36], [202.86, 420.36], [202.86, 375.42], [319.08, 420.36], [586.86, 375.42], [586.86, 420.36], [320.64, 420.36], [320.64, 375.42], [586.86, 420.36], [754.86, 375.42], [754.86, 420.36], [589.14, 420.36], [589.14, 375.42], [754.86, 420.36]]" width="751.5" x0="3.36" x1="754.86" y0="375.42" y1="420.36">
+      <LTTextBoxHorizontal bbox="[28.2, 389.197, 54.123, 409.68]" height="20.482" index="12" width="25.923" x0="28.2" x1="54.123" y0="389.197" y1="409.68"><LTTextLineHorizontal bbox="[28.2, 399.697, 54.123, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="399.697" y1="409.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[29.16, 389.197, 53.964, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="389.197" y1="399.18">8:26 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.9, 398.197, 197.083, 408.18]" height="9.982" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="398.197" y1="408.18"><LTTextBoxHorizontal bbox="[84.9, 398.197, 197.083, 408.18]" height="9.982" index="13" width="112.183" x0="84.9" x1="197.083" y0="398.197" y1="408.18">THEFT REPORT </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="399.697" y1="409.68"><LTTextBoxHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" index="15" width="25.923" x0="247.98" x1="273.903" y0="399.697" y1="409.68">11/28/17 </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[233.16, 389.197, 288.689, 399.18]" height="9.982" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="389.197" y1="399.18"><LTTextBoxHorizontal bbox="[233.16, 389.197, 288.689, 399.18]" height="9.982" index="16" width="55.529" x0="233.16" x1="288.689" y0="389.197" y1="399.18">7:30 AM - 8:00 AM </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[409.68, 407.978, 497.758, 417.96]" height="9.982" width="88.078" word_margin="0.1" x0="409.68" x1="497.758" y0="407.978" y1="417.96"><LTTextBoxHorizontal bbox="[409.68, 407.978, 497.758, 417.96]" height="9.982" index="18" width="88.078" x0="409.68" x1="497.758" y0="407.978" y1="417.96">MALKIN ATHLETIC CENTER </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[427.8, 395.978, 479.625, 405.96]" height="9.982" width="51.825" word_margin="0.1" x0="427.8" x1="479.625" y0="395.978" y1="405.96"><LTTextBoxHorizontal bbox="[427.8, 395.978, 479.625, 405.96]" height="9.982" index="19" width="51.825" x0="427.8" x1="479.625" y0="395.978" y1="405.96">39 HOLYOKE ST </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="383.978" y1="393.96"><LTTextBoxHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" index="20" width="40.336" x0="433.56" x1="473.896" y0="383.978" y1="393.96">CAMBRIDGE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="393.697" y1="403.68"><LTTextBoxHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" index="22" width="27.388" x0="657.54" x1="684.928" y0="393.697" y1="403.68">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 404.28, 584.22, 416.28]" height="12.0" linewidth="0.72" pts="[[323.22, 416.28], [584.22, 416.28], [584.22, 404.28], [323.22, 404.28]]" width="261.0" x0="323.22" x1="584.22" y0="404.28" y1="416.28"/>
       <LTRect bbox="[6, 396.78, 76.5, 408]" height="11.22" linewidth="0.72" pts="[[6, 408], [76.5, 408], [76.5, 396.78], [6, 396.78]]" width="70.5" x0="6" x1="76.5" y0="396.78" y1="408"/>
       <LTRect bbox="[205.5, 396.0, 316.5, 408.0]" height="12.0" linewidth="0.72" pts="[[205.5, 408.0], [316.5, 408.0], [316.5, 396.0], [205.5, 396.0]]" width="111.0" x0="205.5" x1="316.5" y0="396.0" y1="408.0"/>
       <LTRect bbox="[83.22, 387.0, 198.72, 406.5]" height="19.5" linewidth="0.72" pts="[[83.22, 406.5], [198.72, 406.5], [198.72, 387.0], [83.22, 387.0]]" width="115.5" x0="83.22" x1="198.72" y0="387.0" y1="406.5">
-        <LTTextLineHorizontal bbox="[138.18, 389.858, 143.754, 399.84]" height="9.982" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="389.858" y1="399.84">
-          <LTTextBoxHorizontal bbox="[138.18, 389.858, 143.754, 399.84]" height="9.982" index="14" width="5.574" x0="138.18" x1="143.754" y0="389.858" y1="399.84"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[138.18, 389.858, 143.754, 399.84]" height="9.982" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="389.858" y1="399.84"><LTTextBoxHorizontal bbox="[138.18, 389.858, 143.754, 399.84]" height="9.982" index="14" width="5.574" x0="138.18" x1="143.754" y0="389.858" y1="399.84"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 393.78, 584.22, 404.28]" height="10.5" linewidth="0.72" pts="[[323.22, 404.28], [584.22, 404.28], [584.22, 393.78], [323.22, 393.78]]" width="261.0" x0="323.22" x1="584.22" y0="393.78" y1="404.28"/>
       <LTRect bbox="[591.72, 390.78, 750.72, 402.0]" height="11.22" linewidth="0.72" pts="[[591.72, 402.0], [750.72, 402.0], [750.72, 390.78], [591.72, 390.78]]" width="159.0" x0="591.72" x1="750.72" y0="390.78" y1="402.0"/>
@@ -222,57 +75,20 @@
     <LTLine bbox="[755.58, 360.0, 755.58, 375.0]" height="15.0" linewidth="0.72" pts="[[755.58, 375.0], [755.58, 360.0]]" width="0.0" x0="755.58" x1="755.58" y0="360.0" y1="375.0"/>
     <LTLine bbox="[757.86, 360.0, 757.86, 375.0]" height="15.0" linewidth="0.72" pts="[[757.86, 375.0], [757.86, 360.0]]" width="0.0" x0="757.86" x1="757.86" y0="360.0" y1="375.0"/>
     <LTRect bbox="[6.0, 359.28, 752.22, 374.28]" height="15.0" linewidth="0.72" pts="[[6.0, 374.28], [752.22, 374.28], [752.22, 359.28], [6.0, 359.28]]" width="746.22" x0="6.0" x1="752.22" y0="359.28" y1="374.28"/>
-    <LTCurve
-      bbox="[3.36, 316.2, 754.86, 361.14]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 316.2], [79.08, 361.14], [3.36, 361.14], [3.36, 316.2], [79.08, 361.14], [201.36, 316.2], [201.36, 361.14], [80.64, 361.14], [80.64, 316.2], [201.36, 361.14], [319.08, 316.2], [319.08, 361.14], [202.86, 361.14], [202.86, 316.2], [319.08, 361.14], [586.86, 316.2], [586.86, 361.14], [320.64, 361.14], [320.64, 316.2], [586.86, 361.14], [754.86, 316.2], [754.86, 361.14], [589.14, 361.14], [589.14, 316.2], [754.86, 361.14]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="316.2"
-      y1="361.14">
-      <LTTextBoxHorizontal bbox="[28.2, 329.978, 54.123, 350.46]" height="20.482" index="24" width="25.923" x0="28.2" x1="54.123" y0="329.978" y1="350.46">
-        <LTTextLineHorizontal bbox="[28.2, 340.478, 54.123, 350.46]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="340.478" y1="350.46">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[29.16, 329.978, 53.964, 339.96]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="329.978" y1="339.96">9:08 AM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.9, 338.978, 197.083, 348.96]" height="9.982" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="338.978" y1="348.96">
-        <LTTextBoxHorizontal bbox="[84.9, 338.978, 197.083, 348.96]" height="9.982" index="25" width="112.183" x0="84.9" x1="197.083" y0="338.978" y1="348.96">THEFT REPORT
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[247.98, 340.478, 273.903, 350.46]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="340.478" y1="350.46">
-        <LTTextBoxHorizontal bbox="[247.98, 340.478, 273.903, 350.46]" height="9.982" index="27" width="25.923" x0="247.98" x1="273.903" y0="340.478" y1="350.46">11/21/17
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[233.16, 329.978, 288.689, 339.96]" height="9.982" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="329.978" y1="339.96">
-        <LTTextBoxHorizontal bbox="[233.16, 329.978, 288.689, 339.96]" height="9.982" index="28" width="55.529" x0="233.16" x1="288.689" y0="329.978" y1="339.96">2:00 PM - 6:00 PM
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[395.82, 348.697, 511.653, 358.68]" height="9.982" width="115.833" word_margin="0.1" x0="395.82" x1="511.653" y0="348.697" y1="358.68">
-        <LTTextBoxHorizontal bbox="[395.82, 348.697, 511.653, 358.68]" height="9.982" index="29" width="115.833" x0="395.82" x1="511.653" y0="348.697" y1="358.68">NEW DENTAL RESEARCH BUILDING
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[419.46, 336.697, 487.937, 346.68]" height="9.982" width="68.477" word_margin="0.1" x0="419.46" x1="487.937" y0="336.697" y1="346.68">
-        <LTTextBoxHorizontal bbox="[419.46, 336.697, 487.937, 346.68]" height="9.982" index="30" width="68.477" x0="419.46" x1="487.937" y0="336.697" y1="346.68">190 LONGWOOD AVE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[439.68, 324.697, 467.807, 334.68]" height="9.982" width="28.127" word_margin="0.1" x0="439.68" x1="467.807" y0="324.697" y1="334.68">
-        <LTTextBoxHorizontal bbox="[439.68, 324.697, 467.807, 334.68]" height="9.982" index="31" width="28.127" x0="439.68" x1="467.807" y0="324.697" y1="334.68">BOSTON
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 334.478, 684.928, 344.46]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="334.478" y1="344.46">
-        <LTTextBoxHorizontal bbox="[657.54, 334.478, 684.928, 344.46]" height="9.982" index="32" width="27.388" x0="657.54" x1="684.928" y0="334.478" y1="344.46">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 316.2, 754.86, 361.14]" height="44.94" linewidth="0.72" pts="[[79.08, 316.2], [79.08, 361.14], [3.36, 361.14], [3.36, 316.2], [79.08, 361.14], [201.36, 316.2], [201.36, 361.14], [80.64, 361.14], [80.64, 316.2], [201.36, 361.14], [319.08, 316.2], [319.08, 361.14], [202.86, 361.14], [202.86, 316.2], [319.08, 361.14], [586.86, 316.2], [586.86, 361.14], [320.64, 361.14], [320.64, 316.2], [586.86, 361.14], [754.86, 316.2], [754.86, 361.14], [589.14, 361.14], [589.14, 316.2], [754.86, 361.14]]" width="751.5" x0="3.36" x1="754.86" y0="316.2" y1="361.14">
+      <LTTextBoxHorizontal bbox="[28.2, 329.978, 54.123, 350.46]" height="20.482" index="24" width="25.923" x0="28.2" x1="54.123" y0="329.978" y1="350.46"><LTTextLineHorizontal bbox="[28.2, 340.478, 54.123, 350.46]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="340.478" y1="350.46">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[29.16, 329.978, 53.964, 339.96]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="329.978" y1="339.96">9:08 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.9, 338.978, 197.083, 348.96]" height="9.982" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="338.978" y1="348.96"><LTTextBoxHorizontal bbox="[84.9, 338.978, 197.083, 348.96]" height="9.982" index="25" width="112.183" x0="84.9" x1="197.083" y0="338.978" y1="348.96">THEFT REPORT </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[247.98, 340.478, 273.903, 350.46]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="340.478" y1="350.46"><LTTextBoxHorizontal bbox="[247.98, 340.478, 273.903, 350.46]" height="9.982" index="27" width="25.923" x0="247.98" x1="273.903" y0="340.478" y1="350.46">11/21/17 </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[233.16, 329.978, 288.689, 339.96]" height="9.982" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="329.978" y1="339.96"><LTTextBoxHorizontal bbox="[233.16, 329.978, 288.689, 339.96]" height="9.982" index="28" width="55.529" x0="233.16" x1="288.689" y0="329.978" y1="339.96">2:00 PM - 6:00 PM </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[395.82, 348.697, 511.653, 358.68]" height="9.982" width="115.833" word_margin="0.1" x0="395.82" x1="511.653" y0="348.697" y1="358.68"><LTTextBoxHorizontal bbox="[395.82, 348.697, 511.653, 358.68]" height="9.982" index="29" width="115.833" x0="395.82" x1="511.653" y0="348.697" y1="358.68">NEW DENTAL RESEARCH BUILDING </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[419.46, 336.697, 487.937, 346.68]" height="9.982" width="68.477" word_margin="0.1" x0="419.46" x1="487.937" y0="336.697" y1="346.68"><LTTextBoxHorizontal bbox="[419.46, 336.697, 487.937, 346.68]" height="9.982" index="30" width="68.477" x0="419.46" x1="487.937" y0="336.697" y1="346.68">190 LONGWOOD AVE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[439.68, 324.697, 467.807, 334.68]" height="9.982" width="28.127" word_margin="0.1" x0="439.68" x1="467.807" y0="324.697" y1="334.68"><LTTextBoxHorizontal bbox="[439.68, 324.697, 467.807, 334.68]" height="9.982" index="31" width="28.127" x0="439.68" x1="467.807" y0="324.697" y1="334.68">BOSTON </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 334.478, 684.928, 344.46]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="334.478" y1="344.46"><LTTextBoxHorizontal bbox="[657.54, 334.478, 684.928, 344.46]" height="9.982" index="32" width="27.388" x0="657.54" x1="684.928" y0="334.478" y1="344.46">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 345.0, 584.22, 357.0]" height="12.0" linewidth="0.72" pts="[[323.22, 357.0], [584.22, 357.0], [584.22, 345.0], [323.22, 345.0]]" width="261.0" x0="323.22" x1="584.22" y0="345.0" y1="357.0"/>
       <LTRect bbox="[6.0, 337.56, 76.5, 348.78]" height="11.22" linewidth="0.72" pts="[[6.0, 348.78], [76.5, 348.78], [76.5, 337.56], [6.0, 337.56]]" width="70.5" x0="6.0" x1="76.5" y0="337.56" y1="348.78"/>
       <LTRect bbox="[205.5, 336.78, 316.5, 348.78]" height="12.0" linewidth="0.72" pts="[[205.5, 348.78], [316.5, 348.78], [316.5, 336.78], [205.5, 336.78]]" width="111.0" x0="205.5" x1="316.5" y0="336.78" y1="348.78"/>
       <LTRect bbox="[83.22, 327.78, 198.72, 347.28]" height="19.5" linewidth="0.72" pts="[[83.22, 347.28], [198.72, 347.28], [198.72, 327.78], [83.22, 327.78]]" width="115.5" x0="83.22" x1="198.72" y0="327.78" y1="347.28">
-        <LTTextLineHorizontal bbox="[138.18, 330.638, 143.754, 340.62]" height="9.982" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="330.638" y1="340.62">
-          <LTTextBoxHorizontal bbox="[138.18, 330.638, 143.754, 340.62]" height="9.982" index="26" width="5.574" x0="138.18" x1="143.754" y0="330.638" y1="340.62"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[138.18, 330.638, 143.754, 340.62]" height="9.982" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="330.638" y1="340.62"><LTTextBoxHorizontal bbox="[138.18, 330.638, 143.754, 340.62]" height="9.982" index="26" width="5.574" x0="138.18" x1="143.754" y0="330.638" y1="340.62"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 334.5, 584.22, 345.0]" height="10.5" linewidth="0.72" pts="[[323.22, 345.0], [584.22, 345.0], [584.22, 334.5], [323.22, 334.5]]" width="261.0" x0="323.22" x1="584.22" y0="334.5" y1="345.0"/>
       <LTRect bbox="[591.72, 331.56, 750.72, 342.78]" height="11.22" linewidth="0.72" pts="[[591.72, 342.78], [750.72, 342.78], [750.72, 331.56], [591.72, 331.56]]" width="159.0" x0="591.72" x1="750.72" y0="331.56" y1="342.78"/>
@@ -287,55 +103,19 @@
     <LTLine bbox="[755.58, 300.78, 755.58, 315.78]" height="15.0" linewidth="0.72" pts="[[755.58, 315.78], [755.58, 300.78]]" width="0.0" x0="755.58" x1="755.58" y0="300.78" y1="315.78"/>
     <LTLine bbox="[757.86, 300.78, 757.86, 315.78]" height="15.0" linewidth="0.72" pts="[[757.86, 315.78], [757.86, 300.78]]" width="0.0" x0="757.86" x1="757.86" y0="300.78" y1="315.78"/>
     <LTRect bbox="[6, 300.0, 752.22, 315]" height="15.0" linewidth="0.72" pts="[[6, 315], [752.22, 315], [752.22, 300.0], [6, 300.0]]" width="746.22" x0="6" x1="752.22" y0="300.0" y1="315"/>
-    <LTCurve
-      bbox="[3.36, 256.92, 754.86, 301.86]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 256.92], [79.08, 301.86], [3.36, 301.86], [3.36, 256.92], [79.08, 301.86], [201.36, 256.92], [201.36, 301.86], [80.64, 301.86], [80.64, 256.92], [201.36, 301.86], [319.08, 256.92], [319.08, 301.86], [202.86, 301.86], [202.86, 256.92], [319.08, 301.86], [586.86, 256.92], [586.86, 301.86], [320.64, 301.86], [320.64, 256.92], [586.86, 301.86], [754.86, 256.92], [754.86, 301.86], [589.14, 301.86], [589.14, 256.92], [754.86, 301.86]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="256.92"
-      y1="301.86">
-      <LTTextBoxHorizontal bbox="[27.3, 270.697, 55.807, 291.18]" height="20.482" index="34" width="28.507" x0="27.3" x1="55.807" y0="270.697" y1="291.18">
-        <LTTextLineHorizontal bbox="[28.2, 281.197, 54.123, 291.18]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="281.197" y1="291.18">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[27.3, 270.697, 55.807, 280.68]" height="9.982" width="28.507" word_margin="0.1" x0="27.3" x1="55.807" y0="270.697" y1="280.68">10:17 AM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.24, 279.697, 197.711, 289.68]" height="9.982" width="113.471" word_margin="0.1" x0="84.24" x1="197.711" y0="279.697" y1="289.68">
-        <LTTextBoxHorizontal bbox="[84.24, 279.697, 197.711, 289.68]" height="9.982" index="35" width="113.471" x0="84.24" x1="197.711" y0="279.697" y1="289.68">MOTOR VEHICLE THEFT
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextBoxHorizontal bbox="[232.56, 270.697, 289.208, 291.18]" height="20.482" index="37" width="56.648" x0="232.56" x1="289.208" y0="270.697" y1="291.18">
-        <LTTextLineHorizontal bbox="[232.56, 281.197, 289.208, 291.18]" height="9.982" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="281.197" y1="291.18">11/27/17 - 5:45 PM
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[232.56, 270.697, 289.208, 280.68]" height="9.982" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="270.697" y1="280.68">11/28/17 - 9:00 AM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[411.36, 289.478, 496.102, 299.46]" height="9.982" width="84.742" word_margin="0.1" x0="411.36" x1="496.102" y0="289.478" y1="299.46">
-        <LTTextBoxHorizontal bbox="[411.36, 289.478, 496.102, 299.46]" height="9.982" index="38" width="84.742" x0="411.36" x1="496.102" y0="289.478" y1="299.46">FACULTY ROW CAR PORT
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[427.2, 277.478, 480.131, 287.46]" height="9.982" width="52.931" word_margin="0.1" x0="427.2" x1="480.131" y0="277.478" y1="287.46">
-        <LTTextBoxHorizontal bbox="[427.2, 277.478, 480.131, 287.46]" height="9.982" index="39" width="52.931" x0="427.2" x1="480.131" y0="277.478" y1="287.46">46 LINNAEAN ST
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.56, 265.478, 473.896, 275.46]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="265.478" y1="275.46">
-        <LTTextBoxHorizontal bbox="[433.56, 265.478, 473.896, 275.46]" height="9.982" index="40" width="40.336" x0="433.56" x1="473.896" y0="265.478" y1="275.46">CAMBRIDGE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 275.197, 684.928, 285.18]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="275.197" y1="285.18">
-        <LTTextBoxHorizontal bbox="[657.54, 275.197, 684.928, 285.18]" height="9.982" index="41" width="27.388" x0="657.54" x1="684.928" y0="275.197" y1="285.18">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 256.92, 754.86, 301.86]" height="44.94" linewidth="0.72" pts="[[79.08, 256.92], [79.08, 301.86], [3.36, 301.86], [3.36, 256.92], [79.08, 301.86], [201.36, 256.92], [201.36, 301.86], [80.64, 301.86], [80.64, 256.92], [201.36, 301.86], [319.08, 256.92], [319.08, 301.86], [202.86, 301.86], [202.86, 256.92], [319.08, 301.86], [586.86, 256.92], [586.86, 301.86], [320.64, 301.86], [320.64, 256.92], [586.86, 301.86], [754.86, 256.92], [754.86, 301.86], [589.14, 301.86], [589.14, 256.92], [754.86, 301.86]]" width="751.5" x0="3.36" x1="754.86" y0="256.92" y1="301.86">
+      <LTTextBoxHorizontal bbox="[27.3, 270.697, 55.807, 291.18]" height="20.482" index="34" width="28.507" x0="27.3" x1="55.807" y0="270.697" y1="291.18"><LTTextLineHorizontal bbox="[28.2, 281.197, 54.123, 291.18]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="281.197" y1="291.18">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[27.3, 270.697, 55.807, 280.68]" height="9.982" width="28.507" word_margin="0.1" x0="27.3" x1="55.807" y0="270.697" y1="280.68">10:17 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.24, 279.697, 197.711, 289.68]" height="9.982" width="113.471" word_margin="0.1" x0="84.24" x1="197.711" y0="279.697" y1="289.68"><LTTextBoxHorizontal bbox="[84.24, 279.697, 197.711, 289.68]" height="9.982" index="35" width="113.471" x0="84.24" x1="197.711" y0="279.697" y1="289.68">MOTOR VEHICLE THEFT </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextBoxHorizontal bbox="[232.56, 270.697, 289.208, 291.18]" height="20.482" index="37" width="56.648" x0="232.56" x1="289.208" y0="270.697" y1="291.18"><LTTextLineHorizontal bbox="[232.56, 281.197, 289.208, 291.18]" height="9.982" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="281.197" y1="291.18">11/27/17 - 5:45 PM </LTTextLineHorizontal><LTTextLineHorizontal bbox="[232.56, 270.697, 289.208, 280.68]" height="9.982" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="270.697" y1="280.68">11/28/17 - 9:00 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[411.36, 289.478, 496.102, 299.46]" height="9.982" width="84.742" word_margin="0.1" x0="411.36" x1="496.102" y0="289.478" y1="299.46"><LTTextBoxHorizontal bbox="[411.36, 289.478, 496.102, 299.46]" height="9.982" index="38" width="84.742" x0="411.36" x1="496.102" y0="289.478" y1="299.46">FACULTY ROW CAR PORT </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[427.2, 277.478, 480.131, 287.46]" height="9.982" width="52.931" word_margin="0.1" x0="427.2" x1="480.131" y0="277.478" y1="287.46"><LTTextBoxHorizontal bbox="[427.2, 277.478, 480.131, 287.46]" height="9.982" index="39" width="52.931" x0="427.2" x1="480.131" y0="277.478" y1="287.46">46 LINNAEAN ST </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.56, 265.478, 473.896, 275.46]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="265.478" y1="275.46"><LTTextBoxHorizontal bbox="[433.56, 265.478, 473.896, 275.46]" height="9.982" index="40" width="40.336" x0="433.56" x1="473.896" y0="265.478" y1="275.46">CAMBRIDGE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 275.197, 684.928, 285.18]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="275.197" y1="285.18"><LTTextBoxHorizontal bbox="[657.54, 275.197, 684.928, 285.18]" height="9.982" index="41" width="27.388" x0="657.54" x1="684.928" y0="275.197" y1="285.18">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 285.78, 584.22, 297.78]" height="12.0" linewidth="0.72" pts="[[323.22, 297.78], [584.22, 297.78], [584.22, 285.78], [323.22, 285.78]]" width="261.0" x0="323.22" x1="584.22" y0="285.78" y1="297.78"/>
       <LTRect bbox="[6.0, 278.28, 76.5, 289.5]" height="11.22" linewidth="0.72" pts="[[6.0, 289.5], [76.5, 289.5], [76.5, 278.28], [6.0, 278.28]]" width="70.5" x0="6.0" x1="76.5" y0="278.28" y1="289.5"/>
       <LTRect bbox="[205.5, 277.5, 316.5, 289.5]" height="12.0" linewidth="0.72" pts="[[205.5, 289.5], [316.5, 289.5], [316.5, 277.5], [205.5, 277.5]]" width="111.0" x0="205.5" x1="316.5" y0="277.5" y1="289.5"/>
       <LTRect bbox="[83.22, 268.5, 198.72, 288.0]" height="19.5" linewidth="0.72" pts="[[83.22, 288.0], [198.72, 288.0], [198.72, 268.5], [83.22, 268.5]]" width="115.5" x0="83.22" x1="198.72" y0="268.5" y1="288.0">
-        <LTTextLineHorizontal bbox="[131.64, 271.358, 150.24, 281.34]" height="9.982" width="18.6" word_margin="0.1" x0="131.64" x1="150.24" y0="271.358" y1="281.34">
-          <LTTextBoxHorizontal bbox="[131.64, 271.358, 150.24, 281.34]" height="9.982" index="36" width="18.6" x0="131.64" x1="150.24" y0="271.358" y1="281.34"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[131.64, 271.358, 150.24, 281.34]" height="9.982" width="18.6" word_margin="0.1" x0="131.64" x1="150.24" y0="271.358" y1="281.34"><LTTextBoxHorizontal bbox="[131.64, 271.358, 150.24, 281.34]" height="9.982" index="36" width="18.6" x0="131.64" x1="150.24" y0="271.358" y1="281.34"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 275.28, 584.22, 285.78]" height="10.5" linewidth="0.72" pts="[[323.22, 285.78], [584.22, 285.78], [584.22, 275.28], [323.22, 275.28]]" width="261.0" x0="323.22" x1="584.22" y0="275.28" y1="285.78"/>
       <LTRect bbox="[591.72, 272.28, 750.72, 283.5]" height="11.22" linewidth="0.72" pts="[[591.72, 283.5], [750.72, 283.5], [750.72, 272.28], [591.72, 272.28]]" width="159.0" x0="591.72" x1="750.72" y0="272.28" y1="283.5"/>
@@ -350,48 +130,14 @@
     <LTLine bbox="[755.58, 241.5, 755.58, 256.5]" height="15.0" linewidth="0.72" pts="[[755.58, 256.5], [755.58, 241.5]]" width="0.0" x0="755.58" x1="755.58" y0="241.5" y1="256.5"/>
     <LTLine bbox="[757.86, 241.5, 757.86, 256.5]" height="15.0" linewidth="0.72" pts="[[757.86, 256.5], [757.86, 241.5]]" width="0.0" x0="757.86" x1="757.86" y0="241.5" y1="256.5"/>
     <LTRect bbox="[6.0, 240.78, 752.22, 255.78]" height="15.0" linewidth="0.72" pts="[[6.0, 255.78], [752.22, 255.78], [752.22, 240.78], [6.0, 240.78]]" width="746.22" x0="6.0" x1="752.22" y0="240.78" y1="255.78"/>
-    <LTCurve
-      bbox="[3.36, 197.7, 754.86, 242.64]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 197.7], [79.08, 242.64], [3.36, 242.64], [3.36, 197.7], [79.08, 242.64], [201.36, 197.7], [201.36, 242.64], [80.64, 242.64], [80.64, 197.7], [201.36, 242.64], [319.08, 197.7], [319.08, 242.64], [202.86, 242.64], [202.86, 197.7], [319.08, 242.64], [586.86, 197.7], [586.86, 242.64], [320.64, 242.64], [320.64, 197.7], [586.86, 242.64], [754.86, 197.7], [754.86, 242.64], [589.14, 242.64], [589.14, 197.7], [754.86, 242.64]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="197.7"
-      y1="242.64">
-      <LTTextBoxHorizontal bbox="[27.3, 211.477, 55.807, 231.96]" height="20.483" index="43" width="28.507" x0="27.3" x1="55.807" y0="211.477" y1="231.96">
-        <LTTextLineHorizontal bbox="[28.2, 221.977, 54.123, 231.96]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="221.977" y1="231.96">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[27.3, 211.477, 55.807, 221.46]" height="9.983" width="28.507" word_margin="0.1" x0="27.3" x1="55.807" y0="211.477" y1="221.46">12:07 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[85.32, 220.477, 196.71, 230.46]" height="9.983" width="111.39" word_margin="0.1" x0="85.32" x1="196.71" y0="220.477" y1="230.46">
-        <LTTextBoxHorizontal bbox="[85.32, 220.477, 196.71, 230.46]" height="9.983" index="44" width="111.39" x0="85.32" x1="196.71" y0="220.477" y1="230.46">THREAT(S)
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextBoxHorizontal bbox="[230.7, 211.477, 291.051, 231.96]" height="20.483" index="45" width="60.351" x0="230.7" x1="291.051" y0="211.477" y1="231.96">
-        <LTTextLineHorizontal bbox="[232.56, 221.977, 289.208, 231.96]" height="9.983" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="221.977" y1="231.96">11/27/17 - 4:53 PM
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[230.7, 211.477, 291.051, 221.46]" height="9.983" width="60.351" word_margin="0.1" x0="230.7" x1="291.051" y0="211.477" y1="221.46">11/28/17 - 11:02 AM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[401.34, 230.197, 506.076, 240.18]" height="9.983" width="104.736" word_margin="0.1" x0="401.34" x1="506.076" y0="230.197" y1="240.18">
-        <LTTextBoxHorizontal bbox="[401.34, 230.197, 506.076, 240.18]" height="9.983" index="46" width="104.736" x0="401.34" x1="506.076" y0="230.197" y1="240.18">DUDLEY HOUSE - LEHMAN HALL
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[424.5, 218.197, 482.973, 228.18]" height="9.983" width="58.473" word_margin="0.1" x0="424.5" x1="482.973" y0="218.197" y1="228.18">
-        <LTTextBoxHorizontal bbox="[424.5, 218.197, 482.973, 228.18]" height="9.983" index="47" width="58.473" x0="424.5" x1="482.973" y0="218.197" y1="228.18">8 HARVARD YARD
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.56, 206.197, 473.896, 216.18]" height="9.983" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="206.197" y1="216.18">
-        <LTTextBoxHorizontal bbox="[433.56, 206.197, 473.896, 216.18]" height="9.983" index="48" width="40.336" x0="433.56" x1="473.896" y0="206.197" y1="216.18">CAMBRIDGE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[661.8, 215.977, 680.676, 225.96]" height="9.983" width="18.876" word_margin="0.1" x0="661.8" x1="680.676" y0="215.977" y1="225.96">
-        <LTTextBoxHorizontal bbox="[661.8, 215.977, 680.676, 225.96]" height="9.983" index="49" width="18.876" x0="661.8" x1="680.676" y0="215.977" y1="225.96">OPEN
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 197.7, 754.86, 242.64]" height="44.94" linewidth="0.72" pts="[[79.08, 197.7], [79.08, 242.64], [3.36, 242.64], [3.36, 197.7], [79.08, 242.64], [201.36, 197.7], [201.36, 242.64], [80.64, 242.64], [80.64, 197.7], [201.36, 242.64], [319.08, 197.7], [319.08, 242.64], [202.86, 242.64], [202.86, 197.7], [319.08, 242.64], [586.86, 197.7], [586.86, 242.64], [320.64, 242.64], [320.64, 197.7], [586.86, 242.64], [754.86, 197.7], [754.86, 242.64], [589.14, 242.64], [589.14, 197.7], [754.86, 242.64]]" width="751.5" x0="3.36" x1="754.86" y0="197.7" y1="242.64">
+      <LTTextBoxHorizontal bbox="[27.3, 211.477, 55.807, 231.96]" height="20.483" index="43" width="28.507" x0="27.3" x1="55.807" y0="211.477" y1="231.96"><LTTextLineHorizontal bbox="[28.2, 221.977, 54.123, 231.96]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="221.977" y1="231.96">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[27.3, 211.477, 55.807, 221.46]" height="9.983" width="28.507" word_margin="0.1" x0="27.3" x1="55.807" y0="211.477" y1="221.46">12:07 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[85.32, 220.477, 196.71, 230.46]" height="9.983" width="111.39" word_margin="0.1" x0="85.32" x1="196.71" y0="220.477" y1="230.46"><LTTextBoxHorizontal bbox="[85.32, 220.477, 196.71, 230.46]" height="9.983" index="44" width="111.39" x0="85.32" x1="196.71" y0="220.477" y1="230.46">THREAT(S) </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextBoxHorizontal bbox="[230.7, 211.477, 291.051, 231.96]" height="20.483" index="45" width="60.351" x0="230.7" x1="291.051" y0="211.477" y1="231.96"><LTTextLineHorizontal bbox="[232.56, 221.977, 289.208, 231.96]" height="9.983" width="56.648" word_margin="0.1" x0="232.56" x1="289.208" y0="221.977" y1="231.96">11/27/17 - 4:53 PM </LTTextLineHorizontal><LTTextLineHorizontal bbox="[230.7, 211.477, 291.051, 221.46]" height="9.983" width="60.351" word_margin="0.1" x0="230.7" x1="291.051" y0="211.477" y1="221.46">11/28/17 - 11:02 AM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[401.34, 230.197, 506.076, 240.18]" height="9.983" width="104.736" word_margin="0.1" x0="401.34" x1="506.076" y0="230.197" y1="240.18"><LTTextBoxHorizontal bbox="[401.34, 230.197, 506.076, 240.18]" height="9.983" index="46" width="104.736" x0="401.34" x1="506.076" y0="230.197" y1="240.18">DUDLEY HOUSE - LEHMAN HALL </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[424.5, 218.197, 482.973, 228.18]" height="9.983" width="58.473" word_margin="0.1" x0="424.5" x1="482.973" y0="218.197" y1="228.18"><LTTextBoxHorizontal bbox="[424.5, 218.197, 482.973, 228.18]" height="9.983" index="47" width="58.473" x0="424.5" x1="482.973" y0="218.197" y1="228.18">8 HARVARD YARD </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.56, 206.197, 473.896, 216.18]" height="9.983" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="206.197" y1="216.18"><LTTextBoxHorizontal bbox="[433.56, 206.197, 473.896, 216.18]" height="9.983" index="48" width="40.336" x0="433.56" x1="473.896" y0="206.197" y1="216.18">CAMBRIDGE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[661.8, 215.977, 680.676, 225.96]" height="9.983" width="18.876" word_margin="0.1" x0="661.8" x1="680.676" y0="215.977" y1="225.96"><LTTextBoxHorizontal bbox="[661.8, 215.977, 680.676, 225.96]" height="9.983" index="49" width="18.876" x0="661.8" x1="680.676" y0="215.977" y1="225.96">OPEN </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 226.5, 584.22, 238.5]" height="12.0" linewidth="0.72" pts="[[323.22, 238.5], [584.22, 238.5], [584.22, 226.5], [323.22, 226.5]]" width="261.0" x0="323.22" x1="584.22" y0="226.5" y1="238.5"/>
       <LTRect bbox="[6.0, 219.06, 76.5, 230.28]" height="11.22" linewidth="0.72" pts="[[6.0, 230.28], [76.5, 230.28], [76.5, 219.06], [6.0, 219.06]]" width="70.5" x0="6.0" x1="76.5" y0="219.06" y1="230.28"/>
       <LTRect bbox="[205.5, 218.28, 316.5, 230.28]" height="12.0" linewidth="0.72" pts="[[205.5, 230.28], [316.5, 230.28], [316.5, 218.28], [205.5, 218.28]]" width="111.0" x0="205.5" x1="316.5" y0="218.28" y1="230.28"/>
@@ -409,57 +155,20 @@
     <LTLine bbox="[755.58, 182.28, 755.58, 197.28]" height="15.0" linewidth="0.72" pts="[[755.58, 197.28], [755.58, 182.28]]" width="0.0" x0="755.58" x1="755.58" y0="182.28" y1="197.28"/>
     <LTLine bbox="[757.86, 182.28, 757.86, 197.28]" height="15.0" linewidth="0.72" pts="[[757.86, 197.28], [757.86, 182.28]]" width="0.0" x0="757.86" x1="757.86" y0="182.28" y1="197.28"/>
     <LTRect bbox="[6.0, 181.5, 752.22, 196.5]" height="15.0" linewidth="0.72" pts="[[6.0, 196.5], [752.22, 196.5], [752.22, 181.5], [6.0, 181.5]]" width="746.22" x0="6.0" x1="752.22" y0="181.5" y1="196.5"/>
-    <LTCurve
-      bbox="[3.36, 138.42, 754.86, 183.36]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 138.42], [79.08, 183.36], [3.36, 183.36], [3.36, 138.42], [79.08, 183.36], [201.36, 138.42], [201.36, 183.36], [80.64, 183.36], [80.64, 138.42], [201.36, 183.36], [319.08, 138.42], [319.08, 183.36], [202.86, 183.36], [202.86, 138.42], [319.08, 183.36], [586.86, 138.42], [586.86, 183.36], [320.64, 183.36], [320.64, 138.42], [586.86, 183.36], [754.86, 138.42], [754.86, 183.36], [589.14, 183.36], [589.14, 138.42], [754.86, 183.36]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="138.42"
-      y1="183.36">
-      <LTTextBoxHorizontal bbox="[28.2, 152.197, 54.123, 172.68]" height="20.483" index="51" width="25.923" x0="28.2" x1="54.123" y0="152.197" y1="172.68">
-        <LTTextLineHorizontal bbox="[28.2, 162.697, 54.123, 172.68]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="162.697" y1="172.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[29.16, 152.197, 53.964, 162.18]" height="9.983" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="152.197" y1="162.18">1:48 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.24, 161.197, 197.757, 171.18]" height="9.983" width="113.517" word_margin="0.1" x0="84.24" x1="197.757" y0="161.197" y1="171.18">
-        <LTTextBoxHorizontal bbox="[84.24, 161.197, 197.757, 171.18]" height="9.983" index="52" width="113.517" x0="84.24" x1="197.757" y0="161.197" y1="171.18">FIELD INTERVIEW
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[247.98, 162.697, 273.903, 172.68]" height="9.983" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="162.697" y1="172.68">
-        <LTTextBoxHorizontal bbox="[247.98, 162.697, 273.903, 172.68]" height="9.983" index="54" width="25.923" x0="247.98" x1="273.903" y0="162.697" y1="172.68">11/28/17
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[233.16, 152.197, 288.689, 162.18]" height="9.983" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="152.197" y1="162.18">
-        <LTTextBoxHorizontal bbox="[233.16, 152.197, 288.689, 162.18]" height="9.983" index="55" width="55.529" x0="233.16" x1="288.689" y0="152.197" y1="162.18">1:48 PM - 2:31 PM
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[429.84, 170.977, 477.582, 180.96]" height="9.983" width="47.742" word_margin="0.1" x0="429.84" x1="477.582" y0="170.977" y1="180.96">
-        <LTTextBoxHorizontal bbox="[429.84, 170.977, 477.582, 180.96]" height="9.983" index="56" width="47.742" x0="429.84" x1="477.582" y0="170.977" y1="180.96">ALDRICH HALL
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[424.26, 158.977, 483.106, 168.96]" height="9.983" width="58.846" word_margin="0.1" x0="424.26" x1="483.106" y0="158.977" y1="168.96">
-        <LTTextBoxHorizontal bbox="[424.26, 158.977, 483.106, 168.96]" height="9.983" index="57" width="58.846" x0="424.26" x1="483.106" y0="158.977" y1="168.96">35 HARVARD WAY
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[438.54, 146.977, 468.892, 156.96]" height="9.983" width="30.352" word_margin="0.1" x0="438.54" x1="468.892" y0="146.977" y1="156.96">
-        <LTTextBoxHorizontal bbox="[438.54, 146.977, 468.892, 156.96]" height="9.983" index="58" width="30.352" x0="438.54" x1="468.892" y0="146.977" y1="156.96">ALLSTON
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 156.697, 684.928, 166.68]" height="9.983" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="156.697" y1="166.68">
-        <LTTextBoxHorizontal bbox="[657.54, 156.697, 684.928, 166.68]" height="9.983" index="59" width="27.388" x0="657.54" x1="684.928" y0="156.697" y1="166.68">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 138.42, 754.86, 183.36]" height="44.94" linewidth="0.72" pts="[[79.08, 138.42], [79.08, 183.36], [3.36, 183.36], [3.36, 138.42], [79.08, 183.36], [201.36, 138.42], [201.36, 183.36], [80.64, 183.36], [80.64, 138.42], [201.36, 183.36], [319.08, 138.42], [319.08, 183.36], [202.86, 183.36], [202.86, 138.42], [319.08, 183.36], [586.86, 138.42], [586.86, 183.36], [320.64, 183.36], [320.64, 138.42], [586.86, 183.36], [754.86, 138.42], [754.86, 183.36], [589.14, 183.36], [589.14, 138.42], [754.86, 183.36]]" width="751.5" x0="3.36" x1="754.86" y0="138.42" y1="183.36">
+      <LTTextBoxHorizontal bbox="[28.2, 152.197, 54.123, 172.68]" height="20.483" index="51" width="25.923" x0="28.2" x1="54.123" y0="152.197" y1="172.68"><LTTextLineHorizontal bbox="[28.2, 162.697, 54.123, 172.68]" height="9.983" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="162.697" y1="172.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[29.16, 152.197, 53.964, 162.18]" height="9.983" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="152.197" y1="162.18">1:48 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.24, 161.197, 197.757, 171.18]" height="9.983" width="113.517" word_margin="0.1" x0="84.24" x1="197.757" y0="161.197" y1="171.18"><LTTextBoxHorizontal bbox="[84.24, 161.197, 197.757, 171.18]" height="9.983" index="52" width="113.517" x0="84.24" x1="197.757" y0="161.197" y1="171.18">FIELD INTERVIEW </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[247.98, 162.697, 273.903, 172.68]" height="9.983" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="162.697" y1="172.68"><LTTextBoxHorizontal bbox="[247.98, 162.697, 273.903, 172.68]" height="9.983" index="54" width="25.923" x0="247.98" x1="273.903" y0="162.697" y1="172.68">11/28/17 </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[233.16, 152.197, 288.689, 162.18]" height="9.983" width="55.529" word_margin="0.1" x0="233.16" x1="288.689" y0="152.197" y1="162.18"><LTTextBoxHorizontal bbox="[233.16, 152.197, 288.689, 162.18]" height="9.983" index="55" width="55.529" x0="233.16" x1="288.689" y0="152.197" y1="162.18">1:48 PM - 2:31 PM </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[429.84, 170.977, 477.582, 180.96]" height="9.983" width="47.742" word_margin="0.1" x0="429.84" x1="477.582" y0="170.977" y1="180.96"><LTTextBoxHorizontal bbox="[429.84, 170.977, 477.582, 180.96]" height="9.983" index="56" width="47.742" x0="429.84" x1="477.582" y0="170.977" y1="180.96">ALDRICH HALL </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[424.26, 158.977, 483.106, 168.96]" height="9.983" width="58.846" word_margin="0.1" x0="424.26" x1="483.106" y0="158.977" y1="168.96"><LTTextBoxHorizontal bbox="[424.26, 158.977, 483.106, 168.96]" height="9.983" index="57" width="58.846" x0="424.26" x1="483.106" y0="158.977" y1="168.96">35 HARVARD WAY </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[438.54, 146.977, 468.892, 156.96]" height="9.983" width="30.352" word_margin="0.1" x0="438.54" x1="468.892" y0="146.977" y1="156.96"><LTTextBoxHorizontal bbox="[438.54, 146.977, 468.892, 156.96]" height="9.983" index="58" width="30.352" x0="438.54" x1="468.892" y0="146.977" y1="156.96">ALLSTON </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 156.697, 684.928, 166.68]" height="9.983" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="156.697" y1="166.68"><LTTextBoxHorizontal bbox="[657.54, 156.697, 684.928, 166.68]" height="9.983" index="59" width="27.388" x0="657.54" x1="684.928" y0="156.697" y1="166.68">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 167.28, 584.22, 179.28]" height="12.0" linewidth="0.72" pts="[[323.22, 179.28], [584.22, 179.28], [584.22, 167.28], [323.22, 167.28]]" width="261.0" x0="323.22" x1="584.22" y0="167.28" y1="179.28"/>
       <LTRect bbox="[6, 159.78, 76.5, 171]" height="11.22" linewidth="0.72" pts="[[6, 171], [76.5, 171], [76.5, 159.78], [6, 159.78]]" width="70.5" x0="6" x1="76.5" y0="159.78" y1="171"/>
       <LTRect bbox="[205.5, 159.0, 316.5, 171.0]" height="12.0" linewidth="0.72" pts="[[205.5, 171.0], [316.5, 171.0], [316.5, 159.0], [205.5, 159.0]]" width="111.0" x0="205.5" x1="316.5" y0="159.0" y1="171.0"/>
       <LTRect bbox="[83.22, 150.0, 198.72, 169.5]" height="19.5" linewidth="0.72" pts="[[83.22, 169.5], [198.72, 169.5], [198.72, 150.0], [83.22, 150.0]]" width="115.5" x0="83.22" x1="198.72" y0="150.0" y1="169.5">
-        <LTTextLineHorizontal bbox="[138.18, 152.857, 143.754, 162.84]" height="9.983" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="152.857" y1="162.84">
-          <LTTextBoxHorizontal bbox="[138.18, 152.857, 143.754, 162.84]" height="9.983" index="53" width="5.574" x0="138.18" x1="143.754" y0="152.857" y1="162.84"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[138.18, 152.857, 143.754, 162.84]" height="9.983" width="5.574" word_margin="0.1" x0="138.18" x1="143.754" y0="152.857" y1="162.84"><LTTextBoxHorizontal bbox="[138.18, 152.857, 143.754, 162.84]" height="9.983" index="53" width="5.574" x0="138.18" x1="143.754" y0="152.857" y1="162.84"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 156.78, 584.22, 167.28]" height="10.5" linewidth="0.72" pts="[[323.22, 167.28], [584.22, 167.28], [584.22, 156.78], [323.22, 156.78]]" width="261.0" x0="323.22" x1="584.22" y0="156.78" y1="167.28"/>
       <LTRect bbox="[591.72, 153.78, 750.72, 165.0]" height="11.22" linewidth="0.72" pts="[[591.72, 165.0], [750.72, 165.0], [750.72, 153.78], [591.72, 153.78]]" width="159.0" x0="591.72" x1="750.72" y0="153.78" y1="165.0"/>
@@ -484,28 +193,10 @@
     <LTLine bbox="[755.58, 97.5, 755.58, 112.5]" height="15.0" linewidth="0.72" pts="[[755.58, 112.5], [755.58, 97.5]]" width="0.0" x0="755.58" x1="755.58" y0="97.5" y1="112.5"/>
     <LTLine bbox="[757.86, 97.5, 757.86, 112.5]" height="15.0" linewidth="0.72" pts="[[757.86, 112.5], [757.86, 97.5]]" width="0.0" x0="757.86" x1="757.86" y0="97.5" y1="112.5"/>
     <LTRect bbox="[6.0, 96.78, 752.22, 111.78]" height="15.0" linewidth="0.72" pts="[[6.0, 111.78], [752.22, 111.78], [752.22, 96.78], [6.0, 96.78]]" width="746.22" x0="6.0" x1="752.22" y0="96.78" y1="111.78"/>
-    <LTCurve
-      bbox="[3.36, 77.7, 754.86, 98.64]"
-      height="20.94"
-      linewidth="0.72"
-      pts="[[79.08, 77.7], [79.08, 98.64], [3.36, 98.64], [3.36, 77.7], [79.08, 98.64], [201.36, 77.7], [201.36, 98.64], [80.64, 98.64], [80.64, 77.7], [201.36, 98.64], [319.08, 77.7], [319.08, 98.64], [202.86, 98.64], [202.86, 77.7], [319.08, 98.64], [586.86, 77.7], [586.86, 98.64], [320.64, 98.64], [320.64, 77.7], [586.86, 98.64], [754.86, 77.7], [754.86, 98.64], [589.14, 98.64], [589.14, 77.7], [754.86, 98.64]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="77.7"
-      y1="98.64">
-      <LTTextLineHorizontal bbox="[84.9, 85.478, 197.083, 95.46]" height="9.983" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="85.478" y1="95.46">
-        <LTTextBoxHorizontal bbox="[84.9, 85.478, 197.083, 95.46]" height="9.983" index="62" width="112.183" x0="84.9" x1="197.083" y0="85.478" y1="95.46">THEFT REPORT
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.9, 85.478, 685.288, 95.46]" height="9.983" width="27.388" word_margin="0.1" x0="657.9" x1="685.288" y0="85.478" y1="95.46">
-        <LTTextBoxHorizontal bbox="[657.9, 85.478, 685.288, 95.46]" height="9.983" index="63" width="27.388" x0="657.9" x1="685.288" y0="85.478" y1="95.46">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[438.54, 80.197, 468.892, 90.18]" height="9.983" width="30.352" word_margin="0.1" x0="438.54" x1="468.892" y0="80.197" y1="90.18">
-        <LTTextBoxHorizontal bbox="[438.54, 80.197, 468.892, 90.18]" height="9.983" index="67" width="30.352" x0="438.54" x1="468.892" y0="80.197" y1="90.18">ALLSTON
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 77.7, 754.86, 98.64]" height="20.94" linewidth="0.72" pts="[[79.08, 77.7], [79.08, 98.64], [3.36, 98.64], [3.36, 77.7], [79.08, 98.64], [201.36, 77.7], [201.36, 98.64], [80.64, 98.64], [80.64, 77.7], [201.36, 98.64], [319.08, 77.7], [319.08, 98.64], [202.86, 98.64], [202.86, 77.7], [319.08, 98.64], [586.86, 77.7], [586.86, 98.64], [320.64, 98.64], [320.64, 77.7], [586.86, 98.64], [754.86, 77.7], [754.86, 98.64], [589.14, 98.64], [589.14, 77.7], [754.86, 98.64]]" width="751.5" x0="3.36" x1="754.86" y0="77.7" y1="98.64">
+      <LTTextLineHorizontal bbox="[84.9, 85.478, 197.083, 95.46]" height="9.983" width="112.183" word_margin="0.1" x0="84.9" x1="197.083" y0="85.478" y1="95.46"><LTTextBoxHorizontal bbox="[84.9, 85.478, 197.083, 95.46]" height="9.983" index="62" width="112.183" x0="84.9" x1="197.083" y0="85.478" y1="95.46">THEFT REPORT </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.9, 85.478, 685.288, 95.46]" height="9.983" width="27.388" word_margin="0.1" x0="657.9" x1="685.288" y0="85.478" y1="95.46"><LTTextBoxHorizontal bbox="[657.9, 85.478, 685.288, 95.46]" height="9.983" index="63" width="27.388" x0="657.9" x1="685.288" y0="85.478" y1="95.46">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[438.54, 80.197, 468.892, 90.18]" height="9.983" width="30.352" word_margin="0.1" x0="438.54" x1="468.892" y0="80.197" y1="90.18"><LTTextBoxHorizontal bbox="[438.54, 80.197, 468.892, 90.18]" height="9.983" index="67" width="30.352" x0="438.54" x1="468.892" y0="80.197" y1="90.18">ALLSTON </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[6.0, 87.78, 76.5, 97.5]" height="9.72" linewidth="0.72" pts="[[6.0, 97.5], [76.5, 97.5], [76.5, 87.78], [6.0, 87.78]]" width="70.5" x0="6.0" x1="76.5" y0="87.78" y1="97.5"/>
       <LTRect bbox="[205.5, 87.0, 317.22, 97.5]" height="10.5" linewidth="0.72" pts="[[205.5, 97.5], [317.22, 97.5], [317.22, 87.0], [205.5, 87.0]]" width="111.72" x0="205.5" x1="317.22" y0="87.0" y1="97.5"/>
       <LTRect bbox="[323.22, 87.0, 584.22, 97.5]" height="10.5" linewidth="0.72" pts="[[323.22, 97.5], [584.22, 97.5], [584.22, 87.0], [323.22, 87.0]]" width="261.0" x0="323.22" x1="584.22" y0="87.0" y1="97.5"/>
@@ -529,95 +220,23 @@
     <LTLine bbox="[2.22, 63.42, 757.44, 63.42]" height="0.0" linewidth="0.72" pts="[[2.22, 63.42], [757.44, 63.42]]" width="755.22" x0="2.22" x1="757.44" y0="63.42" y1="63.42"/>
   </LTPage>
   <LTPage bbox="[0, 0, 792, 612]" height="612" pageid="2" rotate="0" width="792" x0="0" x1="792" y0="0" y1="612" page_index="1" page_label="2">
-    <LTTextBoxHorizontal bbox="[4.5, 534.697, 51.496, 555.18]" height="20.482" index="0" width="46.996" x0="4.5" x1="51.496" y0="534.697" y1="555.18">
-      <LTTextLineHorizontal bbox="[4.5, 545.197, 51.496, 555.18]" height="9.982" width="46.996" word_margin="0.1" x0="4.5" x1="51.496" y0="545.197" y1="555.18">Francis D. Riley
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[4.5, 534.697, 48.919, 544.68]" height="9.982" width="44.419" word_margin="0.1" x0="4.5" x1="48.919" y0="534.697" y1="544.68">Chief Of Police
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" width="265.581" word_margin="0.1" x0="486.48" x1="752.061" y0="592.695" y1="613.605">
-      <LTTextBoxHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" index="1" width="265.581" x0="486.48" x1="752.061" y0="592.695" y1="613.605">Harvard University Police Department
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextBoxHorizontal bbox="[599.04, 523.237, 752.405, 587.46]" height="64.222" index="2" width="153.365" x0="599.04" x1="752.405" y0="523.237" y1="587.46">
-      <LTTextLineHorizontal bbox="[666.3, 577.477, 751.821, 587.46]" height="9.982" width="85.521" word_margin="0.1" x0="666.3" x1="751.821" y0="577.477" y1="587.46">1033 Massachusetts Avenue
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[720.24, 566.977, 752.071, 576.96]" height="9.982" width="31.831" word_margin="0.1" x0="720.24" x1="752.071" y0="566.977" y1="576.96">Sixth Floor
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[650.76, 556.477, 751.82, 566.46]" height="9.982" width="101.06" word_margin="0.1" x0="650.76" x1="751.82" y0="556.477" y1="566.46">Cambridge, Massachusetts 02138
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[687.54, 545.977, 751.967, 555.96]" height="9.982" width="64.427" word_margin="0.1" x0="687.54" x1="751.967" y0="545.977" y1="555.96">Phone: 617-495-1215
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[695.7, 535.477, 751.975, 545.46]" height="9.982" width="56.275" word_margin="0.1" x0="695.7" x1="751.975" y0="535.477" y1="545.46">Fax: 617-495-7782
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[599.04, 523.237, 752.405, 533.692]" height="10.455" width="153.365" word_margin="0.1" x0="599.04" x1="752.405" y0="523.237" y1="533.692">President and Fellows of Harvard College
-      </LTTextLineHorizontal><LTRect bbox="[645.0, 573.78, 752.22, 585.78]" height="12.0" linewidth="0.72" pts="[[645.0, 585.78], [752.22, 585.78], [752.22, 573.78], [645.0, 573.78]]" width="107.22" x0="645.0" x1="752.22" y0="573.78" y1="585.78"/><LTRect bbox="[713.22, 563.28, 752.22, 575.28]" height="12.0" linewidth="0.72" pts="[[713.22, 575.28], [752.22, 575.28], [752.22, 563.28], [713.22, 563.28]]" width="39.0" x0="713.22" x1="752.22" y0="563.28" y1="575.28"/><LTRect bbox="[632.22, 552.78, 752.22, 564.78]" height="12.0" linewidth="0.72" pts="[[632.22, 564.78], [752.22, 564.78], [752.22, 552.78], [632.22, 552.78]]" width="120.0" x0="632.22" x1="752.22" y0="552.78" y1="564.78"/><LTRect bbox="[674.22, 542.28, 752.22, 554.28]" height="12.0" linewidth="0.72" pts="[[674.22, 554.28], [752.22, 554.28], [752.22, 542.28], [674.22, 542.28]]" width="78.0" x0="674.22" x1="752.22" y0="542.28" y1="554.28"/><LTRect bbox="[684.0, 531.78, 752.22, 543.78]" height="12.0" linewidth="0.72" pts="[[684.0, 543.78], [752.22, 543.78], [752.22, 531.78], [684.0, 531.78]]" width="68.22" x0="684.0" x1="752.22" y0="531.78" y1="543.78"/></LTTextBoxHorizontal>
-    <LTTextLineHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" width="44.599" word_margin="0.1" x0="491.22" x1="535.819" y0="523.237" y1="533.692">
-      <LTTextBoxHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" index="3" width="44.599" x0="491.22" x1="535.819" y0="523.237" y1="533.692">Copyright &#169;
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" width="17.289" word_margin="0.1" x0="546.0" x1="563.289" y0="523.237" y1="533.692">
-      <LTTextBoxHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" index="4" width="17.289" x0="546.0" x1="563.289" y0="523.237" y1="533.692">2017
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" width="110.918" word_margin="0.1" x0="324.84" x1="435.758" y0="475.669" y1="489.219">
-      <LTTextBoxHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" index="5" width="110.918" x0="324.84" x1="435.758" y0="475.669" y1="489.219">PUBLIC POLICE LOG
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" width="54.586" word_margin="0.1" x0="353.28" x1="407.866" y0="462.889" y1="476.439">
-      <LTTextBoxHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" index="6" width="54.586" x0="353.28" x1="407.866" y0="462.889" y1="476.439">11/28/2017
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="11.04" x1="71.464" y0="431.029" y1="443.966">
-      <LTTextBoxHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" index="7" width="60.424" x0="11.04" x1="71.464" y0="431.029" y1="443.966">Date &amp; Time
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextLineHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="231.12" x1="291.544" y0="431.029" y1="443.966">
-      <LTTextBoxHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" index="10" width="60.424" x0="231.12" x1="291.544" y0="431.029" y1="443.966">Date &amp; Time
-      </LTTextBoxHorizontal>
-    </LTTextLineHorizontal>
-    <LTTextBoxHorizontal bbox="[6.0, 350.784, 737.868, 380.098]" height="29.314" index="21" width="731.868" x0="6.0" x1="737.868" y0="350.784" y1="380.098">
-      <LTTextLineHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="363.564" y1="380.098">Officers dispatched to a report of an individual wandering in and out of the library for the last 20 minutes. Officers
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[6.0, 350.784, 737.868, 367.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="350.784" y1="367.318">arrived and report individual gone on arrival.
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTTextBoxHorizontal bbox="[6.0, 278.784, 737.868, 308.098]" height="29.314" index="30" width="731.868" x0="6.0" x1="737.868" y0="278.784" y1="308.098">
-      <LTTextLineHorizontal bbox="[6.0, 291.564, 737.868, 308.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="291.564" y1="308.098">Officer dispatched to a report of two individuals wandering around the lobby area of the building. Officer arrived and
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[6.0, 278.784, 737.868, 295.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="278.784" y1="295.318">report individuals gone on arrival.
-      </LTTextLineHorizontal>
-    </LTTextBoxHorizontal>
-    <LTCurve
-      bbox="[3.36, 421.92, 755.58, 442.86]"
-      height="20.94"
-      linewidth="0.72"
-      pts="[[79.08, 421.92], [79.08, 442.86], [3.36, 442.86], [3.36, 421.92], [79.08, 442.86], [201.36, 421.92], [201.36, 442.86], [80.64, 442.86], [80.64, 421.92], [201.36, 442.86], [319.08, 421.92], [319.08, 442.86], [202.86, 442.86], [202.86, 421.92], [319.08, 442.86], [586.86, 421.92], [586.86, 442.86], [320.64, 442.86], [320.64, 421.92], [586.86, 442.86], [755.58, 421.92], [755.58, 442.86], [589.14, 442.86], [589.14, 421.92], [755.58, 442.86]]"
-      width="752.22"
-      x0="3.36"
-      x1="755.58"
-      y0="421.92"
-      y1="442.86">
-      <LTTextLineHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" width="44.731" word_margin="0.1" x0="18.84" x1="63.571" y0="422.749" y1="435.686">
-        <LTTextBoxHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" index="8" width="44.731" x0="18.84" x1="63.571" y0="422.749" y1="435.686">Reported
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" width="65.278" word_margin="0.1" x0="108.3" x1="173.578" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" index="9" width="65.278" x0="108.3" x1="173.578" y0="427.249" y1="440.186">Incident Type
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" width="44.715" word_margin="0.1" x0="238.62" x1="283.335" y0="422.749" y1="435.686">
-        <LTTextBoxHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" index="11" width="44.715" x0="238.62" x1="283.335" y0="422.749" y1="435.686">Occurred
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" width="41.105" word_margin="0.1" x0="433.14" x1="474.245" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" index="16" width="41.105" x0="433.14" x1="474.245" y0="427.249" y1="440.186">Location
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" width="53.175" word_margin="0.1" x0="646.08" x1="699.255" y0="427.249" y1="440.186">
-        <LTTextBoxHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" index="19" width="53.175" x0="646.08" x1="699.255" y0="427.249" y1="440.186">Disposition
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[4.5, 534.697, 51.496, 555.18]" height="20.482" index="0" width="46.996" x0="4.5" x1="51.496" y0="534.697" y1="555.18"><LTTextLineHorizontal bbox="[4.5, 545.197, 51.496, 555.18]" height="9.982" width="46.996" word_margin="0.1" x0="4.5" x1="51.496" y0="545.197" y1="555.18">Francis D. Riley </LTTextLineHorizontal><LTTextLineHorizontal bbox="[4.5, 534.697, 48.919, 544.68]" height="9.982" width="44.419" word_margin="0.1" x0="4.5" x1="48.919" y0="534.697" y1="544.68">Chief Of Police </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" width="265.581" word_margin="0.1" x0="486.48" x1="752.061" y0="592.695" y1="613.605"><LTTextBoxHorizontal bbox="[486.48, 592.695, 752.061, 613.605]" height="20.91" index="1" width="265.581" x0="486.48" x1="752.061" y0="592.695" y1="613.605">Harvard University Police Department </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[599.04, 523.237, 752.405, 587.46]" height="64.222" index="2" width="153.365" x0="599.04" x1="752.405" y0="523.237" y1="587.46"><LTTextLineHorizontal bbox="[666.3, 577.477, 751.821, 587.46]" height="9.982" width="85.521" word_margin="0.1" x0="666.3" x1="751.821" y0="577.477" y1="587.46">1033 Massachusetts Avenue </LTTextLineHorizontal><LTTextLineHorizontal bbox="[720.24, 566.977, 752.071, 576.96]" height="9.982" width="31.831" word_margin="0.1" x0="720.24" x1="752.071" y0="566.977" y1="576.96">Sixth Floor </LTTextLineHorizontal><LTTextLineHorizontal bbox="[650.76, 556.477, 751.82, 566.46]" height="9.982" width="101.06" word_margin="0.1" x0="650.76" x1="751.82" y0="556.477" y1="566.46">Cambridge, Massachusetts 02138 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[687.54, 545.977, 751.967, 555.96]" height="9.982" width="64.427" word_margin="0.1" x0="687.54" x1="751.967" y0="545.977" y1="555.96">Phone: 617-495-1215 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[695.7, 535.477, 751.975, 545.46]" height="9.982" width="56.275" word_margin="0.1" x0="695.7" x1="751.975" y0="535.477" y1="545.46">Fax: 617-495-7782 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[599.04, 523.237, 752.405, 533.692]" height="10.455" width="153.365" word_margin="0.1" x0="599.04" x1="752.405" y0="523.237" y1="533.692">President and Fellows of Harvard College </LTTextLineHorizontal><LTRect bbox="[645.0, 573.78, 752.22, 585.78]" height="12.0" linewidth="0.72" pts="[[645.0, 585.78], [752.22, 585.78], [752.22, 573.78], [645.0, 573.78]]" width="107.22" x0="645.0" x1="752.22" y0="573.78" y1="585.78"/><LTRect bbox="[713.22, 563.28, 752.22, 575.28]" height="12.0" linewidth="0.72" pts="[[713.22, 575.28], [752.22, 575.28], [752.22, 563.28], [713.22, 563.28]]" width="39.0" x0="713.22" x1="752.22" y0="563.28" y1="575.28"/><LTRect bbox="[632.22, 552.78, 752.22, 564.78]" height="12.0" linewidth="0.72" pts="[[632.22, 564.78], [752.22, 564.78], [752.22, 552.78], [632.22, 552.78]]" width="120.0" x0="632.22" x1="752.22" y0="552.78" y1="564.78"/><LTRect bbox="[674.22, 542.28, 752.22, 554.28]" height="12.0" linewidth="0.72" pts="[[674.22, 554.28], [752.22, 554.28], [752.22, 542.28], [674.22, 542.28]]" width="78.0" x0="674.22" x1="752.22" y0="542.28" y1="554.28"/><LTRect bbox="[684.0, 531.78, 752.22, 543.78]" height="12.0" linewidth="0.72" pts="[[684.0, 543.78], [752.22, 543.78], [752.22, 531.78], [684.0, 531.78]]" width="68.22" x0="684.0" x1="752.22" y0="531.78" y1="543.78"/></LTTextBoxHorizontal>
+    <LTTextLineHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" width="44.599" word_margin="0.1" x0="491.22" x1="535.819" y0="523.237" y1="533.692"><LTTextBoxHorizontal bbox="[491.22, 523.237, 535.819, 533.692]" height="10.455" index="3" width="44.599" x0="491.22" x1="535.819" y0="523.237" y1="533.692">Copyright &#169; </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" width="17.289" word_margin="0.1" x0="546.0" x1="563.289" y0="523.237" y1="533.692"><LTTextBoxHorizontal bbox="[546.0, 523.237, 563.289, 533.692]" height="10.455" index="4" width="17.289" x0="546.0" x1="563.289" y0="523.237" y1="533.692">2017 </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" width="110.918" word_margin="0.1" x0="324.84" x1="435.758" y0="475.669" y1="489.219"><LTTextBoxHorizontal bbox="[324.84, 475.669, 435.758, 489.219]" height="13.55" index="5" width="110.918" x0="324.84" x1="435.758" y0="475.669" y1="489.219">PUBLIC POLICE LOG </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" width="54.586" word_margin="0.1" x0="353.28" x1="407.866" y0="462.889" y1="476.439"><LTTextBoxHorizontal bbox="[353.28, 462.889, 407.866, 476.439]" height="13.55" index="6" width="54.586" x0="353.28" x1="407.866" y0="462.889" y1="476.439">11/28/2017 </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="11.04" x1="71.464" y0="431.029" y1="443.966"><LTTextBoxHorizontal bbox="[11.04, 431.029, 71.464, 443.966]" height="12.937" index="7" width="60.424" x0="11.04" x1="71.464" y0="431.029" y1="443.966">Date &amp; Time </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextLineHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" width="60.424" word_margin="0.1" x0="231.12" x1="291.544" y0="431.029" y1="443.966"><LTTextBoxHorizontal bbox="[231.12, 431.029, 291.544, 443.966]" height="12.937" index="10" width="60.424" x0="231.12" x1="291.544" y0="431.029" y1="443.966">Date &amp; Time </LTTextBoxHorizontal></LTTextLineHorizontal>
+    <LTTextBoxHorizontal bbox="[6.0, 350.784, 737.868, 380.098]" height="29.314" index="21" width="731.868" x0="6.0" x1="737.868" y0="350.784" y1="380.098"><LTTextLineHorizontal bbox="[6.0, 363.564, 737.868, 380.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="363.564" y1="380.098">Officers dispatched to a report of an individual wandering in and out of the library for the last 20 minutes. Officers </LTTextLineHorizontal><LTTextLineHorizontal bbox="[6.0, 350.784, 737.868, 367.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="350.784" y1="367.318">arrived and report individual gone on arrival. </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTTextBoxHorizontal bbox="[6.0, 278.784, 737.868, 308.098]" height="29.314" index="30" width="731.868" x0="6.0" x1="737.868" y0="278.784" y1="308.098"><LTTextLineHorizontal bbox="[6.0, 291.564, 737.868, 308.098]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="291.564" y1="308.098">Officer dispatched to a report of two individuals wandering around the lobby area of the building. Officer arrived and </LTTextLineHorizontal><LTTextLineHorizontal bbox="[6.0, 278.784, 737.868, 295.318]" height="16.534" width="731.868" word_margin="0.1" x0="6.0" x1="737.868" y0="278.784" y1="295.318">report individuals gone on arrival. </LTTextLineHorizontal></LTTextBoxHorizontal>
+    <LTCurve bbox="[3.36, 421.92, 755.58, 442.86]" height="20.94" linewidth="0.72" pts="[[79.08, 421.92], [79.08, 442.86], [3.36, 442.86], [3.36, 421.92], [79.08, 442.86], [201.36, 421.92], [201.36, 442.86], [80.64, 442.86], [80.64, 421.92], [201.36, 442.86], [319.08, 421.92], [319.08, 442.86], [202.86, 442.86], [202.86, 421.92], [319.08, 442.86], [586.86, 421.92], [586.86, 442.86], [320.64, 442.86], [320.64, 421.92], [586.86, 442.86], [755.58, 421.92], [755.58, 442.86], [589.14, 442.86], [589.14, 421.92], [755.58, 442.86]]" width="752.22" x0="3.36" x1="755.58" y0="421.92" y1="442.86">
+      <LTTextLineHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" width="44.731" word_margin="0.1" x0="18.84" x1="63.571" y0="422.749" y1="435.686"><LTTextBoxHorizontal bbox="[18.84, 422.749, 63.571, 435.686]" height="12.937" index="8" width="44.731" x0="18.84" x1="63.571" y0="422.749" y1="435.686">Reported </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" width="65.278" word_margin="0.1" x0="108.3" x1="173.578" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[108.3, 427.249, 173.578, 440.186]" height="12.937" index="9" width="65.278" x0="108.3" x1="173.578" y0="427.249" y1="440.186">Incident Type </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" width="44.715" word_margin="0.1" x0="238.62" x1="283.335" y0="422.749" y1="435.686"><LTTextBoxHorizontal bbox="[238.62, 422.749, 283.335, 435.686]" height="12.937" index="11" width="44.715" x0="238.62" x1="283.335" y0="422.749" y1="435.686">Occurred </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" width="41.105" word_margin="0.1" x0="433.14" x1="474.245" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[433.14, 427.249, 474.245, 440.186]" height="12.937" index="16" width="41.105" x0="433.14" x1="474.245" y0="427.249" y1="440.186">Location </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" width="53.175" word_margin="0.1" x0="646.08" x1="699.255" y0="427.249" y1="440.186"><LTTextBoxHorizontal bbox="[646.08, 427.249, 699.255, 440.186]" height="12.937" index="19" width="53.175" x0="646.08" x1="699.255" y0="427.249" y1="440.186">Disposition </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[6.0, 433.56, 76.5, 441.78]" height="8.22" linewidth="0.72" pts="[[6.0, 441.78], [76.5, 441.78], [76.5, 433.56], [6.0, 433.56]]" width="70.5" x0="6.0" x1="76.5" y0="433.56" y1="441.78"/>
       <LTRect bbox="[206.22, 433.56, 316.44, 441.78]" height="8.22" linewidth="0.72" pts="[[206.22, 441.78], [316.44, 441.78], [316.44, 433.56], [206.22, 433.56]]" width="110.22" x0="206.22" x1="316.44" y0="433.56" y1="441.78"/>
       <LTRect bbox="[83.22, 426.0, 198.72, 438.0]" height="12.0" linewidth="0.72" pts="[[83.22, 438.0], [198.72, 438.0], [198.72, 426.0], [83.22, 426.0]]" width="115.5" x0="83.22" x1="198.72" y0="426.0" y1="438.0"/>
@@ -638,69 +257,21 @@
     <LTLine bbox="[757.86, 419.28, 757.86, 444.0]" height="24.72" linewidth="0.72" pts="[[757.86, 444.0], [757.86, 419.28]]" width="0.0" x0="757.86" x1="757.86" y0="419.28" y1="444.0"/>
     <LTRect bbox="[546.0, 521.28, 569.22, 531.78]" height="10.5" linewidth="0.72" pts="[[546.0, 531.78], [569.22, 531.78], [569.22, 521.28], [546.0, 521.28]]" width="23.22" x0="546.0" x1="569.22" y0="521.28" y1="531.78"/>
     <LTRect bbox="[4.5, 462.0, 756.72, 474.0]" height="12.0" linewidth="0.72" pts="[[4.5, 474.0], [756.72, 474.0], [756.72, 462.0], [4.5, 462.0]]" width="752.22" x0="4.5" x1="756.72" y0="462.0" y1="474.0"/>
-    <LTImage
-      bbox="[3.0, 564.78, 47.22, 609.0]"
-      bits="8"
-      colorspace="[&quot;&lt;PDFObjRef:30&gt;&quot;]"
-      height="44.22"
-      imagemask="null"
-      name="Im1"
-      srcsize="[64, 64]"
-      stream="&lt;PDFStream(25): raw=2101, {'Width': 64, 'ColorSpace': &lt;PDFObjRef:30&gt;, 'Height': 64, 'Filter': /DCTDecode, 'Subtype': /Image, 'Length': 2099, 'Type': /XObject, 'BitsPerComponent': 8}&gt;"
-      width="44.22"
-      x0="3.0"
-      x1="47.22"
-      y0="564.78"
-      y1="609.0">
+    <LTImage bbox="[3.0, 564.78, 47.22, 609.0]" bits="8" colorspace="[&quot;&lt;PDFObjRef:30&gt;&quot;]" height="44.22" imagemask="null" name="Im1" srcsize="[64, 64]" stream="&lt;PDFStream(25): raw=2101, {'Width': 64, 'ColorSpace': &lt;PDFObjRef:30&gt;, 'Height': 64, 'Filter': /DCTDecode, 'Subtype': /Image, 'Length': 2099, 'Type': /XObject, 'BitsPerComponent': 8}&gt;" width="44.22" x0="3.0" x1="47.22" y0="564.78" y1="609.0">
       <LTFigure bbox="[3.0, 564.78, 47.22, 609.0]" height="44.22" matrix="[44.22, 0.0, 0.0, 44.22, 3.0, 564.78]" name="Im1" width="44.22" x0="3.0" x1="47.22" y0="564.78" y1="609.0"/>
     </LTImage>
-    <LTCurve
-      bbox="[3.36, 375.42, 754.86, 420.36]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 375.42], [79.08, 420.36], [3.36, 420.36], [3.36, 375.42], [79.08, 420.36], [201.36, 375.42], [201.36, 420.36], [80.64, 420.36], [80.64, 375.42], [201.36, 420.36], [319.08, 375.42], [319.08, 420.36], [202.86, 420.36], [202.86, 375.42], [319.08, 420.36], [586.86, 375.42], [586.86, 420.36], [320.64, 420.36], [320.64, 375.42], [586.86, 420.36], [754.86, 375.42], [754.86, 420.36], [589.14, 420.36], [589.14, 375.42], [754.86, 420.36]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="375.42"
-      y1="420.36">
-      <LTTextBoxHorizontal bbox="[28.2, 389.197, 54.123, 409.68]" height="20.482" index="12" width="25.923" x0="28.2" x1="54.123" y0="389.197" y1="409.68">
-        <LTTextLineHorizontal bbox="[28.2, 399.697, 54.123, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="399.697" y1="409.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[29.16, 389.197, 53.964, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="389.197" y1="399.18">4:20 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.3, 398.197, 197.75, 408.18]" height="9.982" width="113.45" word_margin="0.1" x0="84.3" x1="197.75" y0="398.197" y1="408.18">
-        <LTTextBoxHorizontal bbox="[84.3, 398.197, 197.75, 408.18]" height="9.982" index="13" width="113.45" x0="84.3" x1="197.75" y0="398.197" y1="408.18">SUSPICIOUS ACTIVITY
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextBoxHorizontal bbox="[247.98, 389.197, 273.903, 409.68]" height="20.482" index="15" width="25.923" x0="247.98" x1="273.903" y0="389.197" y1="409.68">
-        <LTTextLineHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="399.697" y1="409.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[248.58, 389.197, 273.384, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="248.58" x1="273.384" y0="389.197" y1="399.18">4:20 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextBoxHorizontal bbox="[422.64, 395.978, 484.816, 417.96]" height="21.982" index="17" width="62.176" x0="422.64" x1="484.816" y0="395.978" y1="417.96">
-        <LTTextLineHorizontal bbox="[427.62, 407.978, 479.805, 417.96]" height="9.982" width="52.185" word_margin="0.1" x0="427.62" x1="479.805" y0="407.978" y1="417.96">EMERSON HALL
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[422.64, 395.978, 484.816, 405.96]" height="9.982" width="62.176" word_margin="0.1" x0="422.64" x1="484.816" y0="395.978" y1="405.96">26 HARVARD YARD
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="383.978" y1="393.96">
-        <LTTextBoxHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" index="18" width="40.336" x0="433.56" x1="473.896" y0="383.978" y1="393.96">CAMBRIDGE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="393.697" y1="403.68">
-        <LTTextBoxHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" index="20" width="27.388" x0="657.54" x1="684.928" y0="393.697" y1="403.68">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 375.42, 754.86, 420.36]" height="44.94" linewidth="0.72" pts="[[79.08, 375.42], [79.08, 420.36], [3.36, 420.36], [3.36, 375.42], [79.08, 420.36], [201.36, 375.42], [201.36, 420.36], [80.64, 420.36], [80.64, 375.42], [201.36, 420.36], [319.08, 375.42], [319.08, 420.36], [202.86, 420.36], [202.86, 375.42], [319.08, 420.36], [586.86, 375.42], [586.86, 420.36], [320.64, 420.36], [320.64, 375.42], [586.86, 420.36], [754.86, 375.42], [754.86, 420.36], [589.14, 420.36], [589.14, 375.42], [754.86, 420.36]]" width="751.5" x0="3.36" x1="754.86" y0="375.42" y1="420.36">
+      <LTTextBoxHorizontal bbox="[28.2, 389.197, 54.123, 409.68]" height="20.482" index="12" width="25.923" x0="28.2" x1="54.123" y0="389.197" y1="409.68"><LTTextLineHorizontal bbox="[28.2, 399.697, 54.123, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="399.697" y1="409.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[29.16, 389.197, 53.964, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="389.197" y1="399.18">4:20 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.3, 398.197, 197.75, 408.18]" height="9.982" width="113.45" word_margin="0.1" x0="84.3" x1="197.75" y0="398.197" y1="408.18"><LTTextBoxHorizontal bbox="[84.3, 398.197, 197.75, 408.18]" height="9.982" index="13" width="113.45" x0="84.3" x1="197.75" y0="398.197" y1="408.18">SUSPICIOUS ACTIVITY </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextBoxHorizontal bbox="[247.98, 389.197, 273.903, 409.68]" height="20.482" index="15" width="25.923" x0="247.98" x1="273.903" y0="389.197" y1="409.68"><LTTextLineHorizontal bbox="[247.98, 399.697, 273.903, 409.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="399.697" y1="409.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[248.58, 389.197, 273.384, 399.18]" height="9.982" width="24.804" word_margin="0.1" x0="248.58" x1="273.384" y0="389.197" y1="399.18">4:20 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextBoxHorizontal bbox="[422.64, 395.978, 484.816, 417.96]" height="21.982" index="17" width="62.176" x0="422.64" x1="484.816" y0="395.978" y1="417.96"><LTTextLineHorizontal bbox="[427.62, 407.978, 479.805, 417.96]" height="9.982" width="52.185" word_margin="0.1" x0="427.62" x1="479.805" y0="407.978" y1="417.96">EMERSON HALL </LTTextLineHorizontal><LTTextLineHorizontal bbox="[422.64, 395.978, 484.816, 405.96]" height="9.982" width="62.176" word_margin="0.1" x0="422.64" x1="484.816" y0="395.978" y1="405.96">26 HARVARD YARD </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="383.978" y1="393.96"><LTTextBoxHorizontal bbox="[433.56, 383.978, 473.896, 393.96]" height="9.982" index="18" width="40.336" x0="433.56" x1="473.896" y0="383.978" y1="393.96">CAMBRIDGE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="393.697" y1="403.68"><LTTextBoxHorizontal bbox="[657.54, 393.697, 684.928, 403.68]" height="9.982" index="20" width="27.388" x0="657.54" x1="684.928" y0="393.697" y1="403.68">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 404.28, 584.22, 416.28]" height="12.0" linewidth="0.72" pts="[[323.22, 416.28], [584.22, 416.28], [584.22, 404.28], [323.22, 404.28]]" width="261.0" x0="323.22" x1="584.22" y0="404.28" y1="416.28"/>
       <LTRect bbox="[6, 396.78, 76.5, 408]" height="11.22" linewidth="0.72" pts="[[6, 408], [76.5, 408], [76.5, 396.78], [6, 396.78]]" width="70.5" x0="6" x1="76.5" y0="396.78" y1="408"/>
       <LTRect bbox="[205.5, 396.0, 316.5, 408.0]" height="12.0" linewidth="0.72" pts="[[205.5, 408.0], [316.5, 408.0], [316.5, 396.0], [205.5, 396.0]]" width="111.0" x0="205.5" x1="316.5" y0="396.0" y1="408.0"/>
       <LTRect bbox="[83.22, 387.0, 198.72, 406.5]" height="19.5" linewidth="0.72" pts="[[83.22, 406.5], [198.72, 406.5], [198.72, 387.0], [83.22, 387.0]]" width="115.5" x0="83.22" x1="198.72" y0="387.0" y1="406.5">
-        <LTTextLineHorizontal bbox="[134.46, 389.858, 147.478, 399.84]" height="9.982" width="13.017" word_margin="0.1" x0="134.46" x1="147.478" y0="389.858" y1="399.84">
-          <LTTextBoxHorizontal bbox="[134.46, 389.858, 147.478, 399.84]" height="9.982" index="14" width="13.017" x0="134.46" x1="147.478" y0="389.858" y1="399.84"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[134.46, 389.858, 147.478, 399.84]" height="9.982" width="13.017" word_margin="0.1" x0="134.46" x1="147.478" y0="389.858" y1="399.84"><LTTextBoxHorizontal bbox="[134.46, 389.858, 147.478, 399.84]" height="9.982" index="14" width="13.017" x0="134.46" x1="147.478" y0="389.858" y1="399.84"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 393.78, 584.22, 404.28]" height="10.5" linewidth="0.72" pts="[[323.22, 404.28], [584.22, 404.28], [584.22, 393.78], [323.22, 393.78]]" width="261.0" x0="323.22" x1="584.22" y0="393.78" y1="404.28"/>
       <LTRect bbox="[591.72, 390.78, 750.72, 402.0]" height="11.22" linewidth="0.72" pts="[[591.72, 402.0], [750.72, 402.0], [750.72, 390.78], [591.72, 390.78]]" width="159.0" x0="591.72" x1="750.72" y0="390.78" y1="402.0"/>
@@ -720,55 +291,19 @@
     <LTLine bbox="[755.58, 347.28, 755.58, 362.28]" height="15.0" linewidth="0.72" pts="[[755.58, 362.28], [755.58, 347.28]]" width="0.0" x0="755.58" x1="755.58" y0="347.28" y1="362.28"/>
     <LTLine bbox="[757.86, 347.28, 757.86, 362.28]" height="15.0" linewidth="0.72" pts="[[757.86, 362.28], [757.86, 347.28]]" width="0.0" x0="757.86" x1="757.86" y0="347.28" y1="362.28"/>
     <LTRect bbox="[6.0, 346.5, 752.22, 361.5]" height="15.0" linewidth="0.72" pts="[[6.0, 361.5], [752.22, 361.5], [752.22, 346.5], [6.0, 346.5]]" width="746.22" x0="6.0" x1="752.22" y0="346.5" y1="361.5"/>
-    <LTCurve
-      bbox="[3.36, 303.42, 754.86, 348.36]"
-      height="44.94"
-      linewidth="0.72"
-      pts="[[79.08, 303.42], [79.08, 348.36], [3.36, 348.36], [3.36, 303.42], [79.08, 348.36], [201.36, 303.42], [201.36, 348.36], [80.64, 348.36], [80.64, 303.42], [201.36, 348.36], [319.08, 303.42], [319.08, 348.36], [202.86, 348.36], [202.86, 303.42], [319.08, 348.36], [586.86, 303.42], [586.86, 348.36], [320.64, 348.36], [320.64, 303.42], [586.86, 348.36], [754.86, 303.42], [754.86, 348.36], [589.14, 348.36], [589.14, 303.42], [754.86, 348.36]]"
-      width="751.5"
-      x0="3.36"
-      x1="754.86"
-      y0="303.42"
-      y1="348.36">
-      <LTTextBoxHorizontal bbox="[28.2, 317.197, 54.123, 337.68]" height="20.482" index="22" width="25.923" x0="28.2" x1="54.123" y0="317.197" y1="337.68">
-        <LTTextLineHorizontal bbox="[28.2, 327.697, 54.123, 337.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="327.697" y1="337.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[29.16, 317.197, 53.964, 327.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="317.197" y1="327.18">9:35 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[84.3, 326.197, 197.75, 336.18]" height="9.982" width="113.45" word_margin="0.1" x0="84.3" x1="197.75" y0="326.197" y1="336.18">
-        <LTTextBoxHorizontal bbox="[84.3, 326.197, 197.75, 336.18]" height="9.982" index="23" width="113.45" x0="84.3" x1="197.75" y0="326.197" y1="336.18">SUSPICIOUS ACTIVITY
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextBoxHorizontal bbox="[247.98, 317.197, 273.903, 337.68]" height="20.482" index="25" width="25.923" x0="247.98" x1="273.903" y0="317.197" y1="337.68">
-        <LTTextLineHorizontal bbox="[247.98, 327.697, 273.903, 337.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="327.697" y1="337.68">11/28/17
-        </LTTextLineHorizontal>
-        <LTTextLineHorizontal bbox="[248.58, 317.197, 273.384, 327.18]" height="9.982" width="24.804" word_margin="0.1" x0="248.58" x1="273.384" y0="317.197" y1="327.18">9:35 PM
-        </LTTextLineHorizontal>
-      </LTTextBoxHorizontal>
-      <LTTextLineHorizontal bbox="[416.16, 335.978, 491.297, 345.96]" height="9.982" width="75.137" word_margin="0.1" x0="416.16" x1="491.297" y0="335.978" y1="345.96">
-        <LTTextBoxHorizontal bbox="[416.16, 335.978, 491.297, 345.96]" height="9.982" index="26" width="75.137" x0="416.16" x1="491.297" y0="335.978" y1="345.96">PEABODY TERRACE 09
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[423.72, 323.978, 483.678, 333.96]" height="9.982" width="59.958" word_margin="0.1" x0="423.72" x1="483.678" y0="323.978" y1="333.96">
-        <LTTextBoxHorizontal bbox="[423.72, 323.978, 483.678, 333.96]" height="9.982" index="27" width="59.958" x0="423.72" x1="483.678" y0="323.978" y1="333.96">900 MEMORIAL DR
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[433.56, 311.978, 473.896, 321.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="311.978" y1="321.96">
-        <LTTextBoxHorizontal bbox="[433.56, 311.978, 473.896, 321.96]" height="9.982" index="28" width="40.336" x0="433.56" x1="473.896" y0="311.978" y1="321.96">CAMBRIDGE
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
-      <LTTextLineHorizontal bbox="[657.54, 321.697, 684.928, 331.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="321.697" y1="331.68">
-        <LTTextBoxHorizontal bbox="[657.54, 321.697, 684.928, 331.68]" height="9.982" index="29" width="27.388" x0="657.54" x1="684.928" y0="321.697" y1="331.68">CLOSED
-        </LTTextBoxHorizontal>
-      </LTTextLineHorizontal>
+    <LTCurve bbox="[3.36, 303.42, 754.86, 348.36]" height="44.94" linewidth="0.72" pts="[[79.08, 303.42], [79.08, 348.36], [3.36, 348.36], [3.36, 303.42], [79.08, 348.36], [201.36, 303.42], [201.36, 348.36], [80.64, 348.36], [80.64, 303.42], [201.36, 348.36], [319.08, 303.42], [319.08, 348.36], [202.86, 348.36], [202.86, 303.42], [319.08, 348.36], [586.86, 303.42], [586.86, 348.36], [320.64, 348.36], [320.64, 303.42], [586.86, 348.36], [754.86, 303.42], [754.86, 348.36], [589.14, 348.36], [589.14, 303.42], [754.86, 348.36]]" width="751.5" x0="3.36" x1="754.86" y0="303.42" y1="348.36">
+      <LTTextBoxHorizontal bbox="[28.2, 317.197, 54.123, 337.68]" height="20.482" index="22" width="25.923" x0="28.2" x1="54.123" y0="317.197" y1="337.68"><LTTextLineHorizontal bbox="[28.2, 327.697, 54.123, 337.68]" height="9.982" width="25.923" word_margin="0.1" x0="28.2" x1="54.123" y0="327.697" y1="337.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[29.16, 317.197, 53.964, 327.18]" height="9.982" width="24.804" word_margin="0.1" x0="29.16" x1="53.964" y0="317.197" y1="327.18">9:35 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[84.3, 326.197, 197.75, 336.18]" height="9.982" width="113.45" word_margin="0.1" x0="84.3" x1="197.75" y0="326.197" y1="336.18"><LTTextBoxHorizontal bbox="[84.3, 326.197, 197.75, 336.18]" height="9.982" index="23" width="113.45" x0="84.3" x1="197.75" y0="326.197" y1="336.18">SUSPICIOUS ACTIVITY </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextBoxHorizontal bbox="[247.98, 317.197, 273.903, 337.68]" height="20.482" index="25" width="25.923" x0="247.98" x1="273.903" y0="317.197" y1="337.68"><LTTextLineHorizontal bbox="[247.98, 327.697, 273.903, 337.68]" height="9.982" width="25.923" word_margin="0.1" x0="247.98" x1="273.903" y0="327.697" y1="337.68">11/28/17 </LTTextLineHorizontal><LTTextLineHorizontal bbox="[248.58, 317.197, 273.384, 327.18]" height="9.982" width="24.804" word_margin="0.1" x0="248.58" x1="273.384" y0="317.197" y1="327.18">9:35 PM </LTTextLineHorizontal></LTTextBoxHorizontal>
+      <LTTextLineHorizontal bbox="[416.16, 335.978, 491.297, 345.96]" height="9.982" width="75.137" word_margin="0.1" x0="416.16" x1="491.297" y0="335.978" y1="345.96"><LTTextBoxHorizontal bbox="[416.16, 335.978, 491.297, 345.96]" height="9.982" index="26" width="75.137" x0="416.16" x1="491.297" y0="335.978" y1="345.96">PEABODY TERRACE 09 </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[423.72, 323.978, 483.678, 333.96]" height="9.982" width="59.958" word_margin="0.1" x0="423.72" x1="483.678" y0="323.978" y1="333.96"><LTTextBoxHorizontal bbox="[423.72, 323.978, 483.678, 333.96]" height="9.982" index="27" width="59.958" x0="423.72" x1="483.678" y0="323.978" y1="333.96">900 MEMORIAL DR </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[433.56, 311.978, 473.896, 321.96]" height="9.982" width="40.336" word_margin="0.1" x0="433.56" x1="473.896" y0="311.978" y1="321.96"><LTTextBoxHorizontal bbox="[433.56, 311.978, 473.896, 321.96]" height="9.982" index="28" width="40.336" x0="433.56" x1="473.896" y0="311.978" y1="321.96">CAMBRIDGE </LTTextBoxHorizontal></LTTextLineHorizontal>
+      <LTTextLineHorizontal bbox="[657.54, 321.697, 684.928, 331.68]" height="9.982" width="27.388" word_margin="0.1" x0="657.54" x1="684.928" y0="321.697" y1="331.68"><LTTextBoxHorizontal bbox="[657.54, 321.697, 684.928, 331.68]" height="9.982" index="29" width="27.388" x0="657.54" x1="684.928" y0="321.697" y1="331.68">CLOSED </LTTextBoxHorizontal></LTTextLineHorizontal>
       <LTRect bbox="[323.22, 332.28, 584.22, 344.28]" height="12.0" linewidth="0.72" pts="[[323.22, 344.28], [584.22, 344.28], [584.22, 332.28], [323.22, 332.28]]" width="261.0" x0="323.22" x1="584.22" y0="332.28" y1="344.28"/>
       <LTRect bbox="[6, 324.78, 76.5, 336]" height="11.22" linewidth="0.72" pts="[[6, 336], [76.5, 336], [76.5, 324.78], [6, 324.78]]" width="70.5" x0="6" x1="76.5" y0="324.78" y1="336"/>
       <LTRect bbox="[205.5, 324.0, 316.5, 336.0]" height="12.0" linewidth="0.72" pts="[[205.5, 336.0], [316.5, 336.0], [316.5, 324.0], [205.5, 324.0]]" width="111.0" x0="205.5" x1="316.5" y0="324.0" y1="336.0"/>
       <LTRect bbox="[83.22, 315.0, 198.72, 334.5]" height="19.5" linewidth="0.72" pts="[[83.22, 334.5], [198.72, 334.5], [198.72, 315.0], [83.22, 315.0]]" width="115.5" x0="83.22" x1="198.72" y0="315.0" y1="334.5">
-        <LTTextLineHorizontal bbox="[134.46, 317.858, 147.478, 327.84]" height="9.982" width="13.017" word_margin="0.1" x0="134.46" x1="147.478" y0="317.858" y1="327.84">
-          <LTTextBoxHorizontal bbox="[134.46, 317.858, 147.478, 327.84]" height="9.982" index="24" width="13.017" x0="134.46" x1="147.478" y0="317.858" y1="327.84"></LTTextBoxHorizontal>
-        </LTTextLineHorizontal>
+        <LTTextLineHorizontal bbox="[134.46, 317.858, 147.478, 327.84]" height="9.982" width="13.017" word_margin="0.1" x0="134.46" x1="147.478" y0="317.858" y1="327.84"><LTTextBoxHorizontal bbox="[134.46, 317.858, 147.478, 327.84]" height="9.982" index="24" width="13.017" x0="134.46" x1="147.478" y0="317.858" y1="327.84"> </LTTextBoxHorizontal></LTTextLineHorizontal>
       </LTRect>
       <LTRect bbox="[323.22, 321.78, 584.22, 332.28]" height="10.5" linewidth="0.72" pts="[[323.22, 332.28], [584.22, 332.28], [584.22, 321.78], [323.22, 321.78]]" width="261.0" x0="323.22" x1="584.22" y0="321.78" y1="332.28"/>
       <LTRect bbox="[591.72, 318.78, 750.72, 330.0]" height="11.22" linewidth="0.72" pts="[[591.72, 330.0], [750.72, 330.0], [750.72, 318.78], [591.72, 318.78]]" width="159.0" x0="591.72" x1="750.72" y0="318.78" y1="330.0"/>

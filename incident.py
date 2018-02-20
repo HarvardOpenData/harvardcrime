@@ -1,4 +1,5 @@
 import timing
+from importlib import reload
 reload(timing)
 
 class Incident(object):
@@ -65,7 +66,9 @@ class Incident(object):
         'location',
         'street_address',
         'city',
-        'disposition'
+        'disposition',
+        'lat',
+        'long'
     ]
 
     def to_dict_for_csv(self):
@@ -81,11 +84,11 @@ class Incident(object):
 
         return dict(
             reported=str(self.reported),
-            incident_type=to_ascii(self.incident_type),
+            incident_type=str(self.incident_type),
             occurred_start=str(self.occurred_start),
             occurred_end=str(self.occurred_end),
-            location=to_ascii(self.location),
-            street_address=to_ascii(self.street_address),
-            city=to_ascii(self.city),
-            disposition=to_ascii(self.disposition)
+            location=str(self.location),
+            street_address=str(self.street_address),
+            city=str(self.city),
+            disposition=str(self.disposition)
         )

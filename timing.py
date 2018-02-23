@@ -23,6 +23,7 @@ def hour_to_24(hour, meridian):
 
     return hour
 
+
 def parse_datetime_tuple(dt_tuple):
     """
     Converts a tuple like ('11', '27', '17', '5', '45', 'PM')
@@ -54,6 +55,7 @@ def parse_datetime_tuple(dt_tuple):
     #     timezone = pytz.timezone("America/New_York")
     dt = datetime.datetime(year, month, day, hour, minute)
     return dt
+
 
 def parse_raw_occurrence_data(occurrence_array):
     """

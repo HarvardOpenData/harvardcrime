@@ -39,6 +39,10 @@ jupyter notebook
 
 Be sure to change the Jupyter Kernel to your new `crime` one. Go to Kernel > Change kernel > crime from the notebook page.
 
+## Usage
+
+Did you add any packages with pip? Be sure to run `pip freeze > requirements.txt` every time so others can get them installed too.
+
 To quit the virtual env, use `deactivate`.
 
 Need help? See:

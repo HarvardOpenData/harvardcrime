@@ -1,0 +1,8 @@
+chardet==3.0.4
+cssselect==1.0.3
+lxml==4.1.1
+pdfminer==20140328
+pdfquery==0.4.3
+pyquery==1.4.0
+roman==2.0.0
+six==1.11.0

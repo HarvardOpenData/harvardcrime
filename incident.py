@@ -67,8 +67,8 @@ class Incident(object):
         'street_address',
         'city',
         'disposition',
-        'lat',
-        'long'
+        'latitude',
+        'longitude'
     ]
 
     def to_dict_for_csv(self):

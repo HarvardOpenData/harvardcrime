@@ -33,6 +33,11 @@ class Incident(object):
         self.city = data_row[7]
         self.disposition = data_row[8]
 
+        # fields we need to fill in later
+        self.comments = None
+        self.latitude = None
+        self.longitude = None
+
         # convert date and time reported into a datetime
         # this returns a range of times (start, end), but these will be the
         # same because we're only passing a singular time. So just consider
@@ -67,6 +72,7 @@ class Incident(object):
         'street_address',
         'city',
         'disposition',
+        'comments',
         'latitude',
         'longitude'
     ]
@@ -90,5 +96,6 @@ class Incident(object):
             location=str(self.location),
             street_address=str(self.street_address),
             city=str(self.city),
-            disposition=str(self.disposition)
+            disposition=str(self.disposition),
+            comments=str(self.comments)
         )

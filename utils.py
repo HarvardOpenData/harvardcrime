@@ -10,7 +10,7 @@ def dump_csv(incidents):
     """
     Dumps a list of Incident objects to CSV.
     """
-    with open('harvard_crime_incidents.csv', 'w') as csvfile:
+    with open('harvard_crime_incidents.csv', 'a') as csvfile:
         fieldnames = Incident.CSV_FIELDS
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 

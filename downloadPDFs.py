@@ -1,8 +1,11 @@
 #Downloads last 60 days of HUPD Daily Crime Logs
 #Stephen Moon for the Harvard College Open Data Project
 
-import urllib2
+from urllib.request import urlopen
 from datetime import datetime, timedelta
+import os
+
+downloadedDates = []
 
 def getDates():
     now = datetime.now()
@@ -29,27 +32,33 @@ def formatDates(dates):
     return formatted
 
 #returns a tuple: first value is date (MMDDYY) and second is link
-def getLinks():
-    dateStrings = getDates()
+def getLinks(dateStrings):
     links = []
     for date in dateStrings:
         link = "https://www.hupd.harvard.edu/files/hupd/files/%s.pdf" % date
         links.append((date, link))
     return links
 
-def main():
-    links = getLinks()
+def downloadFiles():
+    dates = getDates()
+    files = os.listdir("data/")
+    newDates = []
+    for date in dates:
+        if "%s.pdf" % (date) not in files:
+            newDates.append(date)
+    links = getLinks(newDates)
     for link in links:
         downloadFile(link)
 
+    return downloadedDates
+
 def downloadFile(link):
     try:
-        response = urllib2.urlopen(link[1])
+        response = urlopen(link[1])
         file = open("data/%s.pdf" % link[0], 'wb')
         file.write(response.read())
         file.close()
-    except IOError, e:
+        downloadedDates.append(link[0])
+    except IOError:
         #if the file is missing, not much we can do about it
-
-if __name__ == "__main__":
-    main()
+        x = 2

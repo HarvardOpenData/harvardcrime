@@ -49,3 +49,12 @@ Need help? See:
 
 * <https://stackoverflow.com/questions/23842713/using-python-3-in-virtualenv>
 * <https://stackoverflow.com/questions/33496350/execute-python-script-within-jupyter-notebook-using-a-specific-virtualenv>
+
+## Running the website
+
+Make sure you have Ruby.
+
+```
+gem install bundler jekyll
+bundle exec jekyll serve
+```
